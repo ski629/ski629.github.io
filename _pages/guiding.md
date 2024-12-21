@@ -20,7 +20,7 @@ feature_row:
     url: "https://www.avalancheassociation.ca/"
     btn_label: "Visit CAA"
   - image_path: /assets/logos/rmam.jpeg
-    title: "RMAM"
+    title: "First Aid"
     excerpt: "Rocky Mountain Adventure Medicine<br><br>Wilderness First Responder, 80-hour"
     url: "https://adventuremed.ca/"
     btn_label: "Visit RMAM"
