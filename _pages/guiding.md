@@ -26,7 +26,7 @@ feature_row:
     btn_label: "Visit RMAM"
 
 ---
-I am a recently minted ACMG Apprentice Rock Guide, working with Yamnuska Mountain Adventures. 
+I am an ACMG Apprentice Rock Guide, working with Yamnuska Mountain Adventures. I'm pursuing my ACMG Alpine Guide certification.  
 ![Yamnuska Mountain Adventures](/assets/logos/yamnuska.png)
 <a href="https://yamnuska.com/" class="btn btn--large">Visit Yamnuska</a>
 
