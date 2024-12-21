@@ -24,17 +24,10 @@ feature_row:
     excerpt: "Rocky Mountain Adventure Medicine<br><br>Wilderness First Responder, 80-hour"
     url: "https://adventuremed.ca/"
     btn_label: "Visit RMAM"
-feature_row2:
-  - image_path: /assets/logos/Yamnuska_reverse-with-orange-1.png
-    title: "Yamnuska Mountain Adventures"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
 
 ---
 I am a recently minted ACMG Apprentice Rock Guide, working with Yamnuska Mountain Adventures. 
-![Yamnuska Mountain Adventures](/assets/logos/Yamnuska_reverse-with-orange-1.png)
+![Yamnuska Mountain Adventures](/assets/logos/yamnuska.png)
 <a href="https://yamnuska.com/" class="btn btn--large">Visit Yamnuska</a>
 
 I hold the following credentials:
