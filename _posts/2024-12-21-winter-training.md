@@ -32,6 +32,8 @@ At some point, you'll feel strong enough to hang one-handed. I find one-armed de
 
 To crush, or not to crush (your pinky). The first instinct people have when training on tools is to clip carabiners into the head of the tool. This puts your grip in a highly upright position and tends to make you stop hanging due to pinky pain before you stop hanging due to the pump. Training pinky-crushing is valid, but I get enough of that dry tooling without suffering in the gym. Instead, try hanging some carabiners up and hooking them with the tip of your pick. This will put your grip in a more reclined position. I've gone one step further and built a wooden training tool that allows for adjustable grip angles by shifting a clove hitch. If you want one, I'm happy to provide a template. [Nick Baggaley](https://www.frozenlimestone.ca/) is in the process of making some for sale as well.
 
+{% include figure  image_path="/assets/images/m14.jpg" caption="The aspirationally named 'M14'." %}
+
 Wear thin gloves for this. Your skin will really take a beating if you go bare-handed. For another method of adding difficulty, you can also try loose or thick gloves.
 
 From this training, I have built up big enough callouses that I need to trim them down. If you're getting persistent splitting on your pinkies, try using a thick hand lotion or Vaseline. Some people find lotions with vitamin E are particularly helpful.
@@ -69,6 +71,7 @@ Finish off with some standard dumbbell curls. They'll burn and make you feel lik
 
 ## Stay limber
 High steps, wide stems, figure fours. Good mobility is advantageous in winter climbing in many situations. I was fortunate enough to have my mother introduce me to yoga a long time ago, and it's been an on-and-off part of my routine since. Even if you're already flexible, if you don't do something to maintain that mobility, you'll slowly stiffen up over time. Another advantage to a semi-regular yoga routine is that it's an excellent way to build trunk strength and strength at the ends of your range of motion. Even just one class a week during the winter goes a long way. If yoga isn't your thing, any other form of stretching is excellent, too. If you're in Canmore, Henri Ferguson at [The Yoga Lounge](https://theyogalounge.ca/) will heal your body and mind.
+{% include figure  image_path="/assets/images/yogalounge.jpg" caption="The Yoga Lounge" %}
 
 ## Got thoughts?
 This isn't meant to be the ultimate routine for everyone. It's what works for me, and I've had enough conversations about it that I wanted to write it up.
