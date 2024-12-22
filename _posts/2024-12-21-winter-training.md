@@ -1,8 +1,8 @@
 ---
 layout: single
-title:  "Winter Training"
+title:  "Winter Training - Hang lots, pull hard, stay limber"
 share: false
-excerpt: Hang lots, pull hard, stay limber.
+excerpt: A simple regimen that only takes three or four hours a week
 header:
   overlay_image: /assets/images/alcatraz cut.jpg
   caption: "Kabukimono, D13"
