@@ -6,6 +6,8 @@ main:
      url: /guiding/
    - title: "Blog"
      url: /blog/
+#   - title: "Things I'm Proud Of"
+#     url: /proud/
    - title: "Frozen Limestone"
      url: https://www.frozenlimestone.ca/about
 
