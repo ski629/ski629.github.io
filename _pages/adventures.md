@@ -34,6 +34,7 @@ I've done free ascents of many of the classics in the Rockies, including:
 - Tupperware Tea Party, Mt Wilson, AB, M8++ WI5
 - Les Miserables & Whoa Whoa Capitaine, Mt Wilson, WI6+
 - Riptide (with saga pitch), Mt. Patterson, AB, WI6
+- Anticipation, Canmore, AB, 13-pitch M6+, FA, established ground up
 
 ## Alpine Climbing
 The 2024 season got me excited about summer alpine climbing. I had done plenty of single-day objectives in the past, such as Deltaform via the Flying Buttress and the Greenwood Jones on Mount Temple, but this was the first time I set my sights on multi-day alpine routes. Nick Baggaley climbed the Northeast Buttress of Howse in a 28-hour push from Chephren Lake to our car. While I was exhausted, I was proud of our style, and I was hooked.
