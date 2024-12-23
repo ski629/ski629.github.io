@@ -9,7 +9,7 @@ main:
    - title: "Adventures"
      url: /adventures/
    - title: "Frozen Limestone"
-     url: https://www.frozenlimestone.ca/about
+     url: /frozen-limestone/
 
   # - title: "Sample Collections"
   #   url: /collection-archive/
