@@ -10,11 +10,13 @@ header:
 It's an unfortunate truth that smaller people, particularly smaller women, aren't served as well by the climbing industry. Boots, tools, and gloves that fit are all harder to come by. Tools have some adjustability, and some tools naturally have bigger or smaller handles. Trango Raptors are some of the smallest generally available. However, if you'd prefer to adapt a tool you think climbs well instead of choosing based on handle size, read on.
 
 ### Approach One - Homemade spacers
+{% include figure  image_path="/assets/images/pinkwrapped.jpg" caption="My partner Christine Song's modified Petzl Nomics." %}
 If you look at a tool like a Camp X-Dream, you'll notice that it accommodates smaller hands by adding a spacer that moves your pinky higher. However, it only comes with one height out of the box. We can do better.
 
-The first step is to find a material you want to use. I like Temflex 2155 splicing tape. It's soft but thick and also works well to wrap your tools. You can find it at hardware stores or online. Any shapeable rubber material will work, like old bicycle tubes.
+The first step is to find a material you want to use. I like Temflex 2155 splicing tape. It's soft but thick and also works well to wrap your tool shaft. You can find it at hardware stores or online. Any shapeable rubbery material will work, like old bicycle tubes.
 
 Cut out slices of this material and stack them on top of your pommel. Put on your gloves to check the fit, and keep adding until your pointer finger is properly lined up in the groove that many tools have.
+{% include figure  image_path="/assets/images/toolspacer.jpg" caption="Layered Temflex 2155" %}
 
 Finally, wrap it all up in hockey tape. The tape should hold up for quite a while. If you're doing mixed climbing or dry tooling where the tape gets ground off, stay on top of adding a bit more periodically.
 
