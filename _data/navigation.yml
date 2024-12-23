@@ -4,8 +4,8 @@ main:
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
    - title: "Guiding"
      url: /guiding/
-   - title: "Blog"
-     url: /blog/
+   - title: "Writing"
+     url: /writing/
 #   - title: "Things I'm Proud Of"
 #     url: /proud/
    - title: "Frozen Limestone"
