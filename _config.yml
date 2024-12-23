@@ -21,7 +21,7 @@ title                    : "Frozen Greg"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Greg Barrett"
-description              : "This site is a work in progress."
+description              : "Greg Barrett is a climber and guide in the Canadian Rockies. He has a particular passion for ice, mixed, dry tooling, and alpine climbing."
 url                      : "https://frozengreg.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 domain                   : "frozengreg.com"
 baseurl                  : # the subpath of your site, e.g. "/blog"
