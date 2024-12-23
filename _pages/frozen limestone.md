@@ -20,9 +20,9 @@ feature_row:
     excerpt: "The only dry and mixed guidebook in print in the rockies!"
 ---
 ![Frozen Limestone](/assets/images/flg.png){: width="250" .align-center }
-Frozen Limestone is a guidebook and gear company run by my longtime climbing partner Nick Baggaley. I collaborate with him to make and sell the winter gear we want that no one else makes. We're also working on a select mixed climbing guidebook for the Rockies!
 
-{<a href="https://www.frozenlimestone.ca/" class="btn btn--large btn--primary align-center target="_blank">Visit Frozen Limestone</a>}
+Frozen Limestone is a guidebook and gear company run by my longtime climbing partner Nick Baggaley. I collaborate with him to make and sell the winter gear we want that no one else makes. We're also working on a select mixed climbing guidebook for the Rockies!
+<div style="width:'250px'" class="align-center"><a href="https://www.frozenlimestone.ca/" class="btn btn--large btn--primary align-center" target="_blank" >Visit Frozen Limestone</a></div>
 
 Some of Frozen Limestone's products:
 {% include feature_row %}
