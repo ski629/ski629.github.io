@@ -6,8 +6,8 @@ main:
      url: /guiding/
    - title: "Writing"
      url: /writing/
-#   - title: "Things I'm Proud Of"
-#     url: /proud/
+   - title: "Adventures"
+     url: /adventures/
    - title: "Frozen Limestone"
      url: https://www.frozenlimestone.ca/about
 
