@@ -9,10 +9,10 @@ header:
   overlay_image: /assets/images/frozen-limestone-header.jpg
   caption: "Dawn of the Dead, M8, Photo credit: Nick Baggaley"
 feature_row:
-  - image_path: /assets/images/wrap.jpg
+  - image_path: /assets/images/wrap.png
     title: "Screw Wrap"
     excerpt: "Only 35 grams!"
-  - image_path: /assets/images/pouch.jpg
+  - image_path: /assets/images/pouch.png
     title: "Crampon Pouch"
     excerpt: "Only 30 grams!"
   - image_path: /assets/images/wintercragging.png
