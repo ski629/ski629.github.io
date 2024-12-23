@@ -5,6 +5,7 @@ share: false
 read_time: false
 permalink: /frozen-limestone/
 title: Frozen Limestone
+excerpt: Guidebooks & Gear
 header:
   overlay_image: /assets/images/frozen-limestone-header.jpg
   caption: "Dawn of the Dead, M8, Photo credit: Nick Baggaley"
