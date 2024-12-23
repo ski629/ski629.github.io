@@ -6,8 +6,7 @@ read_time: false
 permalink: /guiding/
 title: Guiding
 header:
-  overlay_image: /assets/images/bluestone.jpeg
-  caption: "Photo credit: Jeff Mercier"
+  overlay_image: /assets/images/daggers.jpg
 feature_row:
   - image_path: /assets/logos/acmg-logo-300x300.png
     title: "ACMG"
