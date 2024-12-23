@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2b3baf8a-56b2-4e62-8e3d-ff1339c94eca" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/_pages/404.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_pages/proud.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2024-12-22-tools-for-small-hands.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/navigation.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/navigation.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2024-12-21-winter-training.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2024-12-21-winter-training.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +37,7 @@
     "git-widget-placeholder": "main",
     "go.import.settings.migrated": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/greg/frozengreg/_pages",
+    "last_opened_file_path": "/Users/greg/frozengreg/_posts",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -49,11 +48,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_posts" />
       <recent name="$PROJECT_DIR$/_pages" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/assets/favicon" />
       <recent name="$PROJECT_DIR$/assets/images" />
-      <recent name="$PROJECT_DIR$/_posts" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/assets/images" />
@@ -99,7 +98,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1734811564451</updated>
-      <workItem from="1734811565626" duration="22543000" />
+      <workItem from="1734811565626" duration="23491000" />
     </task>
     <servers />
   </component>
