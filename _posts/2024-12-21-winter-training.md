@@ -5,6 +5,7 @@ share: false
 excerpt: A simple regimen that only takes three or four hours a week
 header:
   overlay_image: /assets/images/alcatraz cut.jpg
+  teaser: /assets/images/alcatraz cut.jpg
   caption: "Kabukimono, D13"
 ---
 I'm often asked what I do to train for winter climbing. It's a great question! I've tried many things but settled on a reasonably simple regimen that yields excellent results for me while only taking up three or four hours a week.

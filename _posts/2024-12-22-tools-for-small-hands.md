@@ -5,6 +5,7 @@ share: false
 excerpt: Adapting your favorite tool for your hand size
 header:
   overlay_image: /assets/images/bunclimbing.jpg
+  teaser: /assets/images/bunclimbing.jpg
   caption: "Christine Song on Professor Falls"
 ---
 It's an unfortunate truth that smaller people, particularly smaller women, aren't served as well by the climbing industry. Boots, tools, and gloves that fit are all harder to come by. Tools have some adjustability, and some tools naturally have bigger or smaller handles. Trango Raptors are some of the smallest generally available. However, if you'd prefer to adapt a tool you think climbs well instead of choosing based on handle size, read on.
