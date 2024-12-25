@@ -12,4 +12,4 @@ header:
 
 Aaron Gerry of the [Ice Ice Beta](https://iceicebeta.com/) podcast offered me the opportunity to write up my experiences whipping on tethers (and breaking gear) on hard mixed climbs in their new online magazine, [The Cooler](https://iceicebeta.com/blog/). I jumped at the chance and can't say how grateful I am for Daniel Kay's support in editing.
 
-If you haven't checked out the podcast and magazine, queue it up!
+If you haven't checked out the podcast and magazine, queue it up! And if you have stories you want to share, check out [Want to contribute](https://iceicebeta.com/blog/contribute/)
