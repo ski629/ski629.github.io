@@ -31,3 +31,6 @@ Those involved in accidents often feel a considerable sense of **shame**. No one
 When you are engaging with someone who has experienced trauma, asking about the details of what happened is selfish. What we should do is ask how they are doing, and whether there is anything we can do to support them. They're still a **good person**, and they're still a good member of our community. Assure them of that! 
 
 Someday, when you roll snake eyes, you'll want the same **compassion** extended to you.
+
+*If you or someone you know has been affected by trauma in the mountains, consider reaching out to [Mountain Muskox](https://www.mountainmuskox.com/).*
+> Mountain Muskox offers circles of support for people who have been impacted by loss or trauma in the mountains.
