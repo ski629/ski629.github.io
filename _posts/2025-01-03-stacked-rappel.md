@@ -46,10 +46,10 @@ Tying knots in both tails is a pain. The first one is easy; you thread that end 
 
 Good news. You know how we were still safe when we only clipped one strand? The same principle helps out if you only tie a knot on one side. If you rap too far, one end will slide out, but your belay device will hit the knot on the other. Your partner's belay device will keep the rope locked in place, and you'll be left hanging on one strand. This may be a damn exciting situation, but you're alive and can ascend the rope or otherwise rectify things.
 
-### Some tips
+### Some stacked rappel tips
 A lot of times, it's easy to rig multiple extended belay devices and still stand comfortably. But here are a couple of ways to handle it when your stance is awkward.
-- Use a separate personal anchor and rappel extension. Running a single-length sling through your belay loop works excellent as a rappel extension and separates your belay device from your connection to the anchor.
-- Just put your belay device on the rope, unattached to you. This may initially seem odd, but it buys you roughly the same additional safety. When it's your turn, clip it into your rappel extension and go.
+- Use a separate personal anchor and rappel extension. Running a single-length sling through your belay loop works well as a rappel extension and separates your belay device from your connection to the anchor.
+- If you're last to rappel, just put your belay device loaded on the rope, unattached to you. This may initially seem odd, but it buys you roughly the same additional safety. When it's your turn, clip it into your rappel extension and go.
 
 ### Other tips
 One of my favourite expressions is, "Try before you fly." If you weight your rappel system while still connected to the anchor, it's easy to identify and correct anything wrong. Sometimes, I'll bump my personal anchor onto my partner's belay loop to give myself enough slack to test my rappel while still being (indirectly) attached to the anchor.
