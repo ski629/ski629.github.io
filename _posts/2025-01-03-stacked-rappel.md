@@ -44,7 +44,7 @@ If it's the upper belay device that is rigged wrong, the loose strand will be po
 ### One knot is enough
 Tying knots in both tails is a pain. The first one is easy; you thread that end through the anchor. But the second one that sailed past you and cracked like a whip 70 meters below? Do you **really** want to pull it up to tie a knot? You **should**, but the rope probably reaches anyway...
 
-Good news. You know how we were still safe when we only clipped one strand? The same principle helps out if you only tie a knot on one side. If you rap too far, one end will slide out, but your belay device will hit the knot on the other. Your partner's belay device will keep the rope locked in place, and you'll be left hanging on one strand. This may be a damn exciting situation, but you're alive and can ascend the rope or otherwise rectify things.
+Good news. You know how stacked rappels kept us safe when we only clipped one strand? The same principle helps out if you only tie a knot on one side. If you rap too far, one end will slide out, but your belay device will hit the knot on the other. Your partner's belay device will keep the rope locked in place, and you'll be left hanging on one strand. This may be a damn exciting situation, but you're alive and can ascend the rope or otherwise rectify things.
 
 ### Some stacked rappel tips
 A lot of times, it's easy to rig multiple extended belay devices and still stand comfortably. But here are a couple of ways to handle it when your stance is awkward.
