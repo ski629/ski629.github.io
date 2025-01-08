@@ -8,7 +8,7 @@ header:
   teaser: /assets/images/nicksnap.jpg
   caption: "Nick Baggaley shows the damage tethers can do to your tools"
 ---
-<a href="https://www.frozenlimestone.ca/" target="_blank">You Shouldn’t Be Falling on Your Tethers (Or Should You?)</a>
+<a href="https://iceicebeta.com/blog/you-shouldnt-be-falling-on-your-tethers/" target="_blank">You Shouldn’t Be Falling on Your Tethers (Or Should You?)</a>
 
 Aaron Gerry of the [Ice Ice Beta](https://iceicebeta.com/) podcast offered me the opportunity to write up my experiences whipping on tethers (and breaking gear) on hard mixed climbs in their new online magazine, [The Cooler](https://iceicebeta.com/blog/). I jumped at the chance and can't say how grateful I am for Daniel Kay's support in editing.
 
