@@ -52,6 +52,8 @@ A lot of times, it's easy to rig multiple extended belay devices and still stand
 - If you're last to rappel, just put your belay device loaded on the rope, unattached to you. This may initially seem odd, but it buys you roughly the same additional safety. When it's your turn, clip it into your rappel extension and go.
 
 ### Other tips
+I never thought about this one until I recently heard a scary story from a friend: Always tie knots in the ends of your rope when saddlebagging. You don't have a visual queue for where your ropes will reach to when you're rappeling with saddlebags. You also don't have any visual reminder about whether you have knots. Together, these factors make it much easier to rappel off the end of the rope. If you're worried about wind, saddlebags (preferably) OR no-knots can be a solution, but never both.
+
 One of my favourite expressions is, "Try before you fly." If you weight your rappel system while still connected to the anchor, it's easy to identify and correct anything wrong. Sometimes, I'll bump my personal anchor onto my partner's belay loop to give myself enough slack to test my rappel while still being (indirectly) attached to the anchor.
 
 I want to keep this post somewhat focused, but for more tips, check out [Will Gadd's thoughts](https://willgadd.com/rappelling/)
