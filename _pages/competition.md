@@ -15,7 +15,7 @@ Competing with others doesn't come naturally to me. When I share a rope with som
 But there is merit to pitting yourself against your peers. It provides a different, much more external motivation. I'm grateful to Sarah Heuniken for pushing me to try it. This year, I found two very different versions of this experience: the free-for-all choss wrangling at Festiglace in Quebec, and the regimented spectacle at the World Cup in Edmonton.
 
 ### <a href="https://www.festiglace.org/en/home/" target="_blank">Festiglace</a>
-The enduro competition at Festiglace is the closest thing to a **real** mixed climbing competition I can imagine. You get two 90-minute blocks to climb as much as you can. Points are awarded for completed routes based on difficulty. For a choss connoisseur, this is heaven. The holds are natural, the rock is loose, and the rock-to-ice transitions are plentiful. Picks stay put on tenuous flakes almost more through willpower than technique. Complacency and lousy luck are equally likely to send you flying.
+The enduro competition at Festiglace is the closest thing to a "real" mixed climbing competition I can imagine. You get two 90-minute blocks to climb as much as you can. Points are awarded for completed routes based on difficulty. For a choss connoisseur, this is heaven. The holds are natural, the rock is loose, and the rock-to-ice transitions are plentiful. Picks stay put on tenuous flakes almost more through willpower than technique. Complacency and lousy luck are equally likely to send you flying.
 
 {% include figure  image_path="/assets/images/festiglacedifficulty.jpg" caption="The 2025 Difficulty Route, photo: [Tim Banfield](https://www.timbanfield.com/)" %}
 
