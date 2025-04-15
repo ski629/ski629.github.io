@@ -8,8 +8,13 @@ main:
      url: /writing/
    - title: "Adventures"
      url: /adventures/
+   - title: "Competition"
+     url: /competition/
+   - title: "TABVAR"
+     url: /tabvar/
    - title: "Frozen Limestone"
      url: /frozen-limestone/
+
 
   # - title: "Sample Collections"
   #   url: /collection-archive/
