@@ -1,8 +1,8 @@
 ---
 layout: single
-title:  "Tugging the Devil's tail"
+title:  "New Route - Devils Head Northeast Corner"
 share: false
-excerpt: An adventure on Devil's Head
+excerpt: Tugging the Devil's tail
 header:
     overlay_image: /assets/images/2025-08-31-devils-head/burntforest.jpeg
     teaser: /assets/images/2025-08-31-devils-head/burntforest.jpeg
@@ -51,11 +51,12 @@ We roasted in the sun on the descent, and when we reached our river crossing aga
 **Northeast Corner**  
 **Devils Head**  
 **5.10-, 195m**  
-**Raphael Slawinski, Greg Barrett**
+**Raphael Slawinski, Greg Barrett**  
+**August 24, 2025**
 
 A tongue of rock protrudes from the NE aspect of the iconic Devil’s Head, leading to a natural weakness extending the remaining height of the face. While it is a short line with a long approach, it features enjoyable steep climbing of an alpine character, with no fixed protection. It is well sheltered from the sun and would make for a good objective on a hot day.
 
-**Approach:**  
+**Approach**  
 Start as for the Devil’s Head scrambling route. As you approach the base of the peak, you will reach a tongue of rock protruding out towards you. Wrap around to its north side and scramble easily up the lower-angle portion of the tongue.  
 2.5-3 hours
 
