@@ -4,8 +4,8 @@ title:  "New Route - Snafflehound Spine"
 share: false
 excerpt: Wherein our dreams are nearly crushed by a rodent
 header:
-    overlay_image: /assets/images/2024-08-04-snafflehound-spire/cover2.jpeg
-    teaser: /assets/images/2024-08-04-snafflehound-spire/cover2.jpeg
+    overlay_image: /assets/images/2024-08-04-snafflehound-spire/cover.jpeg
+    teaser: /assets/images/2024-08-04-snafflehound-spire/cover.jpeg
     caption: "Why top out in daylight, when you could top out after midnight"
 ---
 
