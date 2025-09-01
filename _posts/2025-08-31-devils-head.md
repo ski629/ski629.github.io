@@ -12,6 +12,8 @@ I’m hooked on alpine exploration. When Raph Slawinski asked me to join him to 
 
 No matter. **I’m down.** Let’s see what we find.
 
+[Jump to route description](#description)
+
 Getting into the Ghost is an adventure in and of itself. I picked Raph up at 6 am from his Waiprus Village abode, and we bounced north down the riverbed to marker 39, the end of the line for driving in the Ghost in the summer. A few shallow river crossings lay between us and the start of our ridge walk. In the morning, they were **bracing**. We popped our shoes back on and started up the slope.
 
 {% include figure popup=true  image_path="/assets/images/2025-08-31-devils-head/fromdistance.jpeg" caption="Devils head in all its glory." %}
@@ -24,11 +26,11 @@ Ten bolts and a drill. It’s a bit of a *‘get out of jail free card’* for t
 
 I led an easy block of low-fifth scrambling to get us to the base of the corner system we had been eyeing for hours. The first real pitch loomed above us. Steep, but in the alpine, any sort of corner or chimney seems much more inviting than a blank face. 
 
-Pitch two was punchy right off the belay. An overhanging step of choss needed to be surmounted to reach easier ground above. I placed a #1 angle in a horizontal break, for some psychological protection. It wouldn’t keep me from decking, but it would keep me from tumbling past our belay. Reaching high through the roof, jugs kept appearing. A high step, a hard pull, and I was established above it.
+Pitch two was punchy right off the belay. An overhanging step of choss needed to be surmounted to reach easier ground above. I placed a number one angle in a horizontal break for some psychological protection. It wouldn’t keep me from decking, but it would keep me from tumbling past our belay. Reaching high through the roof, jugs kept appearing. A high step, a hard pull, and I was established above it.
 
 {% include figure popup=true  image_path="/assets/images/2025-08-31-devils-head/p2.jpeg" caption="Pitch two, with pitch three looming above." %}
 
-Easier climbing led to our first big question mark. Confronted by a much larger roof, a Rockies climber goes sideways. To my left was a solid-looking but steep face, to my right a more fractured but lower-angle wall. I headed right, teetering up towers of choss to a bulge guarding my passage. I stood atop a pedestal of jenga blocks, hunting for handholds. I found one, and as I lifted my weight up on it, it snapped clean off. I slipped back down, hanging on by one hand, and almost lost the game of jenga as the pedestal swayed beneath my feet. Knocking it over might crush Raph or sever my rope. I regained my composure and placed a small knife blade to calm my nerves.
+Easier climbing led to our first big question mark. Confronted by a large roof, a Rockies climber goes sideways. To my left was a solid-looking but steep face, to my right a more fractured but lower-angle wall. I headed right, teetering up towers of choss to a bulge guarding my passage. I stood atop a pedestal of jenga blocks, hunting for handholds. I found one, and as I lifted my weight up on it, it snapped clean off. I slipped back down, hanging on by one hand, and almost lost the game of jenga as the pedestal swayed beneath my feet. Knocking it over might crush Raph or sever my rope. I regained my composure and placed a small knife blade to calm my nerves.
 
 The line between cleaning and chipping can get blurry on alpine limestone. I judiciously chose which loose rock to clean, and uncovered a well-placed foothold where once there was choss. I balanced over onto it, placed a more trustworthy finger-sized cam, and picked my way through the rest of the sequence.
 
@@ -48,7 +50,7 @@ Having solved this puzzle, we knew we were only a pitch away from the rim. More 
 
 We roasted in the sun on the descent, and when we reached our river crossing again, the cold water was blissful. In the end, I was 15 hours door-to-door to climb three pitches. Worth it? To repeat a route, perhaps not. But as an exploratory adventure with the best of company? **Absolutely.**
 
-**Northeast Corner**  
+<span id="description">**Northeast Corner**</span>  
 **Devils Head**  
 **5.10-, 195m**  
 **Raphael Slawinski, Greg Barrett**  
