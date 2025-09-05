@@ -97,11 +97,11 @@ We arrived at the base of God’s finger, and saw an amusing, if slightly undign
 {% include figure popup=true image_path="/assets/images/2025-09-03-no-fiesta-no-siesta/god.jpeg" caption="The finger of god, and the ledge of indignity." %}
 {% include figure popup=true image_path="/assets/images/2025-09-03-no-fiesta-no-siesta/crawling.jpg" caption="Who needs dignity when you have choss." %}
 
-A new chapter in our day started. Gone were the endless cycles of 
+A new chapter in our day started. Gone were the endless cycles of: 
 
 *“Climb the **loose ridge**. When it gets hard, sneak **left**.”* 
 
-In its place, we found endless cycles of 
+In its place, we found endless cycles of:
 
 *“Climb the **wet chimney**. When it gets hard, sneak **right**.”*
 
