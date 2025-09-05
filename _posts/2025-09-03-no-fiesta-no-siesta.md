@@ -80,9 +80,9 @@ I’d been teasing Nick about managing terrain like an alpine guide instead of a
 
 I hastily but carefully traversed back to the notch. I’d been accumulating, but handing, the mental fatigue that comes with moving through high-consequence terrain all morning. But this 30-second jaunt over oblivion did my head in, in a way that I wouldn’t fully rally from for another couple of hours.
 
-I started to worry about our descent later in the day. We’d identified that the col between Stutfield and Cromwell might give us passage back to our camp. At a minimum, we could burn a lot of elevation by dropping down to it. But we knew that navigating from the col back into the valley would be challenging. We’d had an epic on Deltaform / Neptuak some years prior when one of our headlamps died, and the convoluted terrain on Neptuak had been almost impossible to navigate in the dark. I worried that our suddenly slowing pace would force us into a similar situation.
-
 {% include figure popup=true image_path="/assets/images/2025-09-03-no-fiesta-no-siesta/insurmountable.jpeg" caption="The upper headwall, always looming in the background." %}
+
+I started to worry about our descent later in the day. We’d identified that the col between Stutfield and Cromwell might give us passage back to our camp. At a minimum, we could burn a lot of elevation by dropping down to it. But we knew that navigating from the col back into the valley would be challenging. We’d had an epic on Deltaform / Neptuak some years prior when one of our headlamps died, and the convoluted terrain on Neptuak had been almost impossible to navigate in the dark. I worried that our suddenly slowing pace would force us into a similar situation.
 
 These fears gnawed at me as we descended on the south side of the ridge, seeking some path that would let us bypass more of the choss towers blocking our path. Eventually, we found a plausible gulley heading back toward the ridge, toward a ‘Finger of God’ we’d seen from a distance.
 
