@@ -1,11 +1,11 @@
 ---
-layout: single
+layout: posts
 author_profile: true
 share: false
 read_time: false
-title: About
+permalink: /
+title: Writing
 header:
-  overlay_image: /assets/images/kittyhawk.jpeg
-  caption: "Photo credit: Nick Baggaley"
+  overlay_image: /assets/images/bluestone.jpeg
+  caption: "Photo credit: Jeff Mercier"
 ---
-{% include_relative _pages/about_body.md %}
