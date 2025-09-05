@@ -12,6 +12,8 @@ header:
 
 Eventually, you listen. True to form, it took me far longer than it should have to commit to climbing the east ridge of the northeast peak of Mount Stutfield with him. But finally, it was time, and nothing could stand in our way.
 
+[Jump to route description](#description)
+
 {% include figure popup=true image_path="/assets/images/2025-09-03-no-fiesta-no-siesta/ridgelinefromabove.jpeg" caption="A surreal landscape." %}
 
 Except that he returned from guiding in the icefields with a cold he just hadn’t been able to kick. No matter, he’ll deal with the cough, I’ll try not to catch it.
@@ -160,3 +162,29 @@ I drew our bear spray, and we took turns keeping watch while heading up the slop
 {% include figure popup=true image_path="/assets/images/2025-09-03-no-fiesta-no-siesta/closing.jpeg"  %}
 
 I’m grateful for our journey. We both agree that there are a limited number of times you can ‘get away’ with doing this sort of adventure climbing. It’s not for everyone, and I don’t want to do too much of it, but just the right amount adds some zest to life, both as a climber and as a human. If you’re the sort of climber who seeks out exposed, loose, chossy, poorly protected climbing, this route might be for you. If you have more sense in your head, then perhaps it makes a better story than it does a climbing line. 
+
+
+<span id="description">**No Fiesta, No Siesta**</span>  
+**Mount Stutfield, NE Peak**  
+**TD- 5.8 1200m**  
+**Nick Baggaley, Greg Barrett**  
+**September 3, 2025**  
+*Description by Nick*
+
+The name comes from the unfortunate break down of my till-now-trusted Ford Fiesta while driving up the night before, me forgetting a sleeping pad for the bivy, and our all-day push from our bivy to get over the peak and home to Canmore by 1am.
+
+We approached from the Stutfield viewpoint, crossing the Sunwapta and the Stutfield rivers in up to knee deep water. We continued up the north bank of the creek to join a faint scramblers trail up to the tarn below the ridge, where we spent the night [(52.2541°N, -117.3640°E)](https://www.gaiagps.com/map/?loc=16/-117.364/52.2541). [Permits for bivies in Jasper](https://parks.canada.ca/pn-np/ab/jasper/activ/passez-stay/arrierepays-backcountry/sugg-sentiers_trip-ideas/bivouac) are super easy to get by phone now, so we highly recommend this for any future parties bivying for objectives anywhere in the area!
+
+In the morning, we headed up the route. Steep scree and talus with some 3rd class scrambling leads up to the first cliff band around 2465m. 4th class with some low 5th leads through this section, linking weaknesses close to the ridge. Above, continue along a scree bench to the next step at 2650m.
+
+Tackle a steep crack at the prow of the buttress, then work up and left on loose ledges before climbing another steep short crack to easier ground above (5.8, 40m). Continue up more 4th-low 5th climbing to the top of the buttress at 2770m.
+
+Traverse scree ledges on the south side of the ridge to the obvious south spur. Step around to the west side of the crest, and work upwards until able to see a prominent thin pinnacle (the “Finger of God”… you’ll know it when you see it) above. Head up and left on shattered ledges towards the right of two gullies below it, and climb more 4th-low 5th until able to break left around the Finger. Climb up to its base. Head left and crawl along a low, overhung ledge past an old rappel anchor to the base of the final headwall.
+
+Below the headwall, head up briefly into the main center gully before breaking left onto blocky low 5th climbing on a spur leading up to the base of another, smaller, gully to the left of the main one. Climb into this gully and continue up low-mid 5th class climbing until blocked by a roof. Head right to a pinnacle, then climb up into the loose yellow band and traverse left above the roof back to the crest.
+
+Continue up to the base of the steep headwall above. One long pitch (5.8ish) on the crest leads to a thin ledge and a belay. Move the belay right a ways around the corner, then climb a very loose corner to where the angle eases. Keep going to the top of the ridge, and climb easy snow above this through the cornice to the summit.
+
+We descended the north-northwest ridge on ice and snow (conditions required one V-thread rappel) to the Cromwell-Stutfield col. We descended this col with some downclimbing and four rappels in 2 sets of 2 on the lower two cliff bands. This section of the descent would be very challenging to onsight in the dark. The rock glacier below the col is easy travel back to the tarn bivy, where we reversed our tracks to the road.
+
+Overall, this is a very loose, committing-feeling alpine route in a fantastic remote setting. It’s really only for folks who are interested in a LOT of exposed, loose, chossy, poorly protected climbing and navigating through this type of terrain. Despite a lot of smoke, we won’t be back for better views.
