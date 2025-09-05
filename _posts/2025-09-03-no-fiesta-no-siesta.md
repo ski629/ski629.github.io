@@ -155,7 +155,7 @@ I’ve always enjoyed the tension and release of alpine climbing. You get more a
 
 And then Nick spotted three sets of eyes, lit up by his headlamp, staring at us out of the trees. The eyes were too big and too widely spaced to be a bird or a rodent. They were forward-facing and up in a tree, so they certainly weren’t goat or sheep. Cougars? But then why are there three of them? Cougars are solitary animals. Clearly, they’re some sort of cryptids.
 
-I drew our bear spray, and we took turns keeping watch while heading up the slope. One of us kept eyes on our six, watching for any advance from the cryptids, while the other hiked. When we made it to the car, we just threw our packs in and drove away, putting some distance between us and our predators before putting on celebratory clean clothes and spilling a San Pellegrino all over Nick.
+I drew our bear spray, and we took turns keeping watch while heading up the slope. One of us kept eyes on our six, watching for any advance from the cryptids, while the other hiked. When we made it to the car, we just threw our packs in and drove away, putting some distance between us and our predators before putting on celebratory clean clothes and promptly spilling a San Pellegrino all over Nick.
 
 {% include figure popup=true image_path="/assets/images/2025-09-03-no-fiesta-no-siesta/closing.jpeg"  %}
 
