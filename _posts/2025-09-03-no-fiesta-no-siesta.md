@@ -93,6 +93,7 @@ We bashed up scree, we stemmed, we chimneyed. Nick would do a handful of moves, 
 We arrived at the base of God’s finger, and saw an amusing, if slightly undignified, option to bypass the final gendarme of choss. A ledge ran along the gendarme’s side. Above the ledge was an overhanging wall, below a nightmare of steep, loose ledges. The gap was short enough in height that, in places, it could only be traversed by crawling along it. And crawl we did, eventually making it to the far side.
 
 {% include figure popup=true image_path="/assets/images/2025-09-03-no-fiesta-no-siesta/god.jpeg" caption="The finger of god, and the ledge of indignity." %}
+{% include figure popup=true image_path="/assets/images/2025-09-03-no-fiesta-no-siesta/crawling.jpg" caption="Who needs dignity when you have choss." %}
 
 A new chapter in our day started. Gone were the endless cycles of 
 
