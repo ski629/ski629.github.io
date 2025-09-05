@@ -12,8 +12,6 @@ header:
 
 Eventually, you listen. True to form, it took me far longer than it should have to commit to climbing the east ridge of the northeast peak of Mount Stutfield with him. But finally, it was time, and nothing could stand in our way.
 
-[Jump to route description](#description)
-
 {% include figure popup=true image_path="/assets/images/2025-09-03-no-fiesta-no-siesta/ridgelinefromabove.jpeg" caption="A surreal landscape." %}
 
 Except that he returned from guiding in the icefields with a cold he just hadn’t been able to kick. No matter, he’ll deal with the cough, I’ll try not to catch it.
