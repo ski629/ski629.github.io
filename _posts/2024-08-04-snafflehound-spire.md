@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "New Route - Snafflehound Spine"
+title:  "Snafflehound Spine - 5.10+, TD+"
 share: false
 excerpt: Wherein our dreams are nearly crushed by a rodent
 header:

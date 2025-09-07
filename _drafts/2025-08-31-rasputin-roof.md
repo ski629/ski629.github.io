@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "New Route - Rasputin Roof"
+title:  "Rasputin Roof - M9"
 share: false
 excerpt: Tugging the Devil's tail
 header:

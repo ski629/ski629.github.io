@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "New Route - Devils Head Northeast Corner"
+title:  "Devils Head Northeast Corner - 5.10-, 195m"
 share: false
 excerpt: Tugging the Devil's tail
 header:

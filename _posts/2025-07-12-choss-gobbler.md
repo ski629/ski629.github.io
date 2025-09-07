@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "New Route - Confessions of a Choss Gobbler"
+title:  "Confessions of a Choss Gobbler - 5.11- A0 440m TD"
 share: false
 excerpt: My confession is that I do not know why I like to gobble choss.
 header:
