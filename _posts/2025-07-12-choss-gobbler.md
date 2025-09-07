@@ -2,19 +2,81 @@
 layout: single
 title:  "New Route - Confessions of a Choss Gobbler"
 share: false
-excerpt: Our confession is that we do not know why we like to gobble choss.
+excerpt: My confession is that I do not know why I like to gobble choss.
 header:
     overlay_image: /assets/images/2025-07-12-choss-gobbler/cover.jpeg
     teaser: /assets/images/2025-07-12-choss-gobbler/cover.jpeg
     caption: "The choss crux, pitch six"
 ---
-Gavin and I climbed a new route on the NW face of Castle last weekend. It was a bit audacious of us to go for it in one push. Our 26-hour day went largely free and onsight, but we did resort to some aid-after-dark when the mood pivoted from “Let’s explore” to “Let’s get off this mountain in one piece”.
+The striking north-west headwall of Castle Mountain jumps out in the setting sun while driving south from adventures beyond Lake Louise. This face called out to Gavin, as faces sometimes do. He pitched the idea of exploring it, and I was sold immediately. Having no idea what we were up against, we packed cams, nuts, plenty of pins and cord. Our intention was a bolt-free alpine ascent, but we were open to it turning into a ground-up sport climbing adventure. Twenty bolts, two batteries, and a drill got added to the pile. No room for bivvy gear, we’ll just descend at a sensible time if things get out of hand.
 
-If anyone repeats it and wants to put a few protection bolts in (particularly on pitches 6, 7, and 9), feel free. I’m also open to feedback on the grades. Overhanging choss is hard to judge.
+[Jump to route description](#description)
 
-The route name alludes to our attempt to follow Marcus Baranow’s ski descent line back into Protection Valley. Our confession is that we do not know why we like to gobble choss.
+{% include figure popup=true image_path="/assets/images/2025-07-12-choss-gobbler/fromapproach.jpeg" caption="On approach, the cliff is a world of possibilities. None of them seem easy." %}
 
-**Confessions of a Choss Gobbler**  
+{% include figure popup=true image_path="/assets/images/2025-07-12-choss-gobbler/goat.jpeg" caption="Goats know all the cool spots." %}
+
+We spent 3 hours of approaching and another hour exploring the base of the cliff to decide our line. Some negotiation about where to start ensued. Ultimately the chossiest, but also easiest, line was selected. A name floated from Gavin’s mouth. “Confessions of a Choss Gobbler”, a play on Marcus Baranow’s series of books about backcountry skiing in the area. He’d documented the line of descent we intended to take, should we summit. Perhaps I was just a bit exhausted from the approach, but I loved the name immediately. The first pitch honoured this name well.
+
+{% include figure popup=true image_path="/assets/images/2025-07-12-choss-gobbler/p1scout.jpeg" caption="Gavin deciding on pitch one. Sometimes, there is an inverse relationship between chossiness and difficulty." %}
+
+The next few pitches went smoothly. Beautiful dolomite edges led to a steep, wide crack. The wide crack led to a cave belay. Then, a tips crack brought us to a ledge system halfway up the face. 
+
+{% include figure popup=true image_path="/assets/images/2025-07-12-choss-gobbler/p3.jpeg" caption="Starting up pitch three, and the rock quality is good, by alpine standards." %}
+
+{% include figure popup=true image_path="/assets/images/2025-07-12-choss-gobbler/crotch.jpeg" caption="Starting up pitch four. It's not a butt shot, it's a crotch shot." %}
+
+{% include figure popup=true image_path="/assets/images/2025-07-12-choss-gobbler/p4.jpeg" caption="A spicy tips crack? Life is good." %}
+
+A classic Rockies “if you don’t like what’s above you, traverse” ensued. Thirty metres right, an overhanging chimney of choss blocked access to what seemed like a plausible crack system above.
+
+{% include figure popup=true image_path="/assets/images/2025-07-12-choss-gobbler/traverse.jpeg" caption="Of course we're going to do a sideways pitch. This isn't granite." %}
+
+This is when a sensible party would have retreated, or perhaps explored other options. But the choss gobbler in me could not resist, and a run-out start led to vertical choss that was just as bad as it looked. The gear was questionable, and the holds more so. But I was determined that we’d make it through. An hour later, I pulled past the final roof and brought Gavin up to join me. I left behind a fixed #4 knifeblade, marking our passage.
+
+{% include figure popup=true image_path="/assets/images/2025-07-12-choss-gobbler/chosscrux.jpeg" caption="Photos don't do this pitch justice. It belongs in a steep choss museum." %}
+
+We had invested too much now. The climbing above must be better, and we had plenty of daylight left. I joked that we’d get home at 7 am, and that we’d finish covered in blood and tears. We continued upward.
+
+{% include figure popup=true image_path="/assets/images/2025-07-12-choss-gobbler/steep.jpeg" caption="It turns out that walls that look steep from a distance often contain a lot of steep climbing." %}
+
+The climbing was not better. Gavin’s next lead, while not as steep, contained some of the worst rock we’d ever surmounted. Cams sat limply in gutters of kitty litter while Gavin stemmed up an exfoliating dihedral.
+
+{% include figure popup=true image_path="/assets/images/2025-07-12-choss-gobbler/golden.jpeg" caption="It looks like it eases up, right? Wrong. Very wrong." %}
+
+We were approaching a roof that capped twin crack systems. We’d seen it from the approach trail and knew that it was very close to the ridgeline. We had to keep going. A quality pitch got us incrementally closer, and we thought the difficulties had eased. The next pitch had other ideas.
+
+I found myself pumped, at the end of a sequence of technical climbing I knew I could not rewind, scooping textbooks of loose rock out of a horizontal slot. I was desperate for any feature that would allow me to shake or provide meaningful protection. The fall would be terrible, and I was entirely out of control of the situation. Painful jams in a gravely slot slowly let me get control of my pump and my mind. I moved upward, found one cam placement and then another. I finished the pitch at the first stance that vaguely resembled a ledge. My mind was shot. There was no way I could safely take us any further.
+
+{% include figure popup=true image_path="/assets/images/2025-07-12-choss-gobbler/lazy.jpeg" caption="When my spirit is broken, capturing the moment well is the last thing on my mind." %}
+
+It was Gavin’s turn to take the reigns, and it was now 10 pm. I gently but repeatedly suggested that I would be okay with trying to descend. Some part of it was a suggestion, some part a plea. But if Gavin was willing to take us to the top, I would follow. And he was game. 
+
+Night had fallen, our trad anchor was questionable, and for the first time that day, we yielded to the call of mechanized drilling. A two-bolt belay went in quickly. We had climbed everything free to that point, but we were no longer trying to pioneer a free, clean line. We were just trying to get home safely. Protracted clean aid climbing ensued, as Gavin inched us close to the roof looming above. A free sequence and a questionable belay later, Gavin called to me that he was secure.
+
+{% include figure popup=true image_path="/assets/images/2025-07-12-choss-gobbler/dark.jpeg" caption="In these moments, if I had a button that teleported us home and erased what we'd accomplished, I would have hit it." %}
+
+I didn’t even attempt to climb to him. Pulling on gear, ascending the rope, and swinging between crack systems. Anything I could do to finish the pitch. Once again, the anchor inspired little confidence in our addled minds, and another single bolt was sunk into the rock to calm our nerves. The roof turned out to be easily bypassable. A final committing traverse and an aided roof pull led Gavin out the top.
+
+Topping out on Yamnuska often involves a phone call telling your climber they’re on belay as you sit in gravel behind a boulder. Castle was no different. Gavin hunkered down in the scree and plugged in a few cams to back up his stance. We had a quick phone call, which felt like an anachronism in the midst of our alpine toils. He brought me up. There were no tears, but there was blood, a bit of vomit, and it was 2 am.
+
+{% include figure popup=true image_path="/assets/images/2025-07-12-choss-gobbler/rap.jpeg" caption="It's telling that we have no photos or video from the top of the route. Take only memories, leave only vomit. I think that's how the saying goes?" %}
+
+The descent was more time-consuming than arduous. We scrambled down seeping steps of rock until we reached the Castle end of Protection Valley. We had photos from Marcus’ descent, but could not figure out what they rappelled off of. We scrambled further down, with waterfalls on both sides, before putting in a bolted rappel station. A rope stretcher of a 60-meter rappel brought us down to the top of a snow cone.
+
+Further below, we were cliffed out by waterfalls again. Exploring, we found an incredible cleft running into the rock ledge and descended it, crossing under a natural bridge with a waterfall streaming over it as we exited.
+
+{% include figure popup=true image_path="/assets/images/2025-07-12-choss-gobbler/chasm.jpeg" caption="The waterfalls strewn across this landscape would have been gorgeous with more daylight and less addled minds." %}
+
+There comes a time in many alpine journeys when the exposure, the excitement, the fear, have all subsided, and what remains is an endless march back to civilization. It was 6 am, and the sun rose over gray skies as a light mist came down on us. After what felt like an interminable slog, we finally made it back to our truck at 8:30 am, 26 hours after we started.
+
+{% include figure popup=true image_path="/assets/images/2025-07-12-choss-gobbler/dawn.jpeg" caption="A dreary sunrise." %}
+
+My confession is that I don’t know why I like to gobble choss. I can’t in good conscience recommend this route to anyone fond of their personal well-being. But if you’re as much of a choss gobbler as we are, perhaps this can be a bit of a test piece, and perhaps you might want to make things a bit more sensible with a few protection bolts.
+
+{% include figure popup=true image_path="/assets/images/2025-07-12-choss-gobbler/topo.jpeg" caption="A very, very rough topo." %}
+
+<span id="description">**Confessions of a Choss Gobbler**</span>  
 **Castle Mountain**  
 **5.11- A0 440m TD**  
 **Gavin McNamara, Greg Barrett**  
