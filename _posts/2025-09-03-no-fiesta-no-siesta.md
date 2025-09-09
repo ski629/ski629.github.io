@@ -135,7 +135,7 @@ Having a snow and ice travel component enhances any alpine line. Nick took point
 
 {% include figure popup=true image_path="/assets/images/2025-09-03-no-fiesta-no-siesta/summit.jpeg" caption="Definitely not dorks. Nope, just two cool guys on a summit." %}
 
-We got to a roll in the glacier where the terrain steeped, put a v-thread in a slushy puddle, and did a single rappel before continuing down to the col. A bit of boot-skiing down a snowpatch back into our valley followed, and then we were back to loose scrambling.
+We got to a roll in the glacier where the terrain steepened, put a v-thread in a slushy puddle, and did a single rappel before continuing down to the col. A bit of boot-skiing down a snowpatch back into our valley followed, and then we were back to loose scrambling.
 
 {% include figure popup=true image_path="/assets/images/2025-09-03-no-fiesta-no-siesta/vthread.jpeg" caption="Slush is bomber, right?" %}
 
@@ -147,7 +147,7 @@ We were halfway down, and all we’d had to leave behind so far was a meter of o
 
 {% include figure popup=true image_path="/assets/images/2025-09-03-no-fiesta-no-siesta/rap.jpeg" caption="Our third rappel down the col." %}
 
-When I saw our ropes touch the glacier below, I was elated. We were out of exposure. 
+When I saw our ropes touch the glacier below, I was elated. We were out of technical terrain. 
 
 {% include figure popup=true image_path="/assets/images/2025-09-03-no-fiesta-no-siesta/down.jpeg" caption="We're down, and we have a beautiful view of our route on the skyline." %}
 
