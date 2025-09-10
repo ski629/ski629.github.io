@@ -2,12 +2,16 @@
 layout: single
 title:  "Rasputin Roof - M9"
 share: false
-excerpt: Tugging the Devil's tail
+excerpt: Another one for the "I can't believe this hasn't been climbed already" collection
 header:
-    overlay_image: /assets/images/2025-08-31-dev2ils-head/burntforest.jpeg
-    teaser: /assets/images/2025-08-31-devi2ls-head/burntforest.jpeg
-    caption: "The aftermath of a forest fire on Bastion Ridge."
+    overlay_image: /assets/images/2024-01-06-rasputin-roof/cover.jpeg
+    teaser: /assets/images/2024-01-06-rasputin-roof/cover.jpeg
+    caption: "Sometimes bolting is more awkward and strenuous than climbing!"
 ---
+Superbok is one of the most classic ice climbs in the range. Not far away, a massive rock roof forms huge hanging daggers every year. You would think someone who have climbed it by now, given how accessible it is, and that it's visible from the highway.
+
+Nope! Raph Slawinski invited me to take a crack at it, and I was keen. Another route, "Cragganmore", served as approach ice.   
+
 Rasputin Roof
 Grade: M9 WI5, 50m
 Location: Mount Stephen, Yoho National Park BC
