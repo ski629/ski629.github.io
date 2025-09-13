@@ -6,6 +6,8 @@ main:
      url: /about
    - title: "Routes & Writing"
      url: /
+   - title: "Gallery"
+     url: /gallery/
    - title: "Guiding"
      url: /guiding/
    - title: "Adventures"
