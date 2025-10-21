@@ -10,6 +10,8 @@ header:
 ---
 Bolts on ice tools and crampons wear out and fail. Unfortunately, it can be a pain to replace them. I've taken calipers and a thread checker to my collection of tools and crampons to try to help with sizing. Sourcing them is another challenge. If you're in a city, try to find a store dedicated to fasteners, or check big box home improvement stores. In a smaller town your best bet might be buying a box of a hundred off of Amazon and sharing with friends. 
 
+[Jump to sizes](#sizes)
+
 **A note on materials**  
 You may be surprised that manufacturers often don't use stainless in these applications. There is actually a reason for it, which is that stainless can be more susceptible to 'galling', where the threads on both sides essentially weld together. 
 This is a broad generalization, but you're probably better off sticking with non-stainless components and swapping them out as they corrode.
@@ -20,7 +22,11 @@ The easiest thing to do is buy a 'Cobalt Drill Bit' that matches the size of the
 **I can only find bolts that are too long**  
 Buy a long bolt. Thread a nut onto it FIRST, before cutting. Then, cut it to length with a hacksaw, dremmel, or angle grinder. Be careful. Try to deburr the edges gently with a file if possible (or a 'deburring chamfer tool' if you want to be fancy). Then, unscrew the nut. As you take the nut off, it will fix the damaged threads from your cut, and you should be good to go.
 
-**Bolt size format**    
+**One final tip**  
+If you find yourself swapping picks or front points a lot, consider getting a socket wrench and the appropriate hex sockets, especially for pick bolts. The added mechanical advantage will actually make you less likely to strip the bolts. Always make sure your wrenches are seated full depth inside the bolt, and don't go too crazy cranking them down. I also bought a 'nut driver' for the nut side of my crampons.  
+{% include figure image_path="/assets/images/2025-10-19-bolt-sizes/nut.jpeg" %}
+
+**<span id="sizes">Bolt size format</span>**    
 `M<Diameter>-<Thread Pitch>, <Length>, <Type>`  
 as in:  
 `M8-1.25, 25mm, Low Head Socket Cap Screw`  
