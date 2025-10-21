@@ -17,6 +17,9 @@ This is a broad generalization, but you're probably better off sticking with non
 **My bolt is stripped and I can't get it out**  
 The easiest thing to do is buy a 'Cobalt Drill Bit' that matches the size of the bolt. Start drilling in the head of the bolt. When you reach the shaft the bolt, the head and the shaft will fall apart. 
 
+**I can only find bolts that are too long**  
+Buy a long bolt. Thread a nut onto it FIRST, before cutting. Then, cut it to length with a hacksaw, dremmel, or angle grinder. Be careful. Try to deburr the edges gently with a file if possible (or a 'deburring chamfer tool' if you want to be fancy). Then, unscrew the nut. As you take the nut off, it will fix the damaged threads from your cut, and you should be good to go.
+
 **Bolt size format**    
 `M<Diameter>-<Thread Pitch>, <Length>, <Type>`  
 as in:  
@@ -35,9 +38,16 @@ as in:
  
 **Black Diamond Ice Tool Pommel Bolt**  
 - M5-0.8, 35mm, Socket Head Cap Screw (9mm head diameter)
+- Serrated safety washer
 - 4mm wrench for bolt    
 - Note that the handle spacers are 7mm each, so if you are using only one you could use a 28mm bolt, and if you're using none, 21mm.
 {% include figure image_path="/assets/images/2025-10-19-bolt-sizes/bd_pommel.jpeg" %}
+
+**Black Diamond Cyborg Crampons**
+- M5-0.8, 55mm, Socket Head Cap Screw
+- 4mm wrench for bolt
+- 8mm wrench for nut
+- If you wan a bolt just for mono-point configuration, it can be 45mm.
 
 **Petzl Pick Weights**  
 - M5-0.8, 16mm, Socket Flat/Countersunk Head Cap Screw  
@@ -48,15 +58,17 @@ as in:
 - M5-0.8, 60mm, Socket Head Cap Screw  
 - 4mm wrench for bolt  
 - 8mm wrench for nut
+- The spacers are 'M5 Aluminum Spacer', ID 5mm, OD 10mm. Short is 16mm, long is 21mm
 
 **Petzl Ice Tool Head Bolt**  
 - M8-1.25, 25mm, Low Head Socket Cap Screw (13mm head diameter)  
+- Serrated safety washer
 - 5mm wrench for bolt  
 - 13mm wrench for nut
 {% include figure image_path="/assets/images/2025-10-19-bolt-sizes/petzl_head.jpeg" %}
 
 **Petzl Ice Tool Pommel Bolt**  
-- m5-0.8, 20mm, Low Head Socket Cap Screw  
+- m5-0.8, 20mm, Low Head Socket Cap Screw 
 - 3mm wrench for bolt
 {% include figure image_path="/assets/images/2025-10-19-bolt-sizes/petzl_pommel.jpeg" %}
 
@@ -68,3 +80,8 @@ as in:
 **ICT Ice Tool Stein Bolt**  
 - M4-0.7, 8mm Socket Flat/Countersunk Head Cap Screw
 - 2.5mm wrench for bolt
+
+**Camp crampons, Blade Runner, Dry, T-Dry**
+- M5-0.8, 14mm, Low Head Socket Cap Screw
+- 'Wedge' style lock washer
+- 3mm wrench for bolt
