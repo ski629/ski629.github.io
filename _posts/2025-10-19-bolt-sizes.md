@@ -35,14 +35,14 @@ as in:
 *Length:* 25mm  
 *Type:* Low Head Socket Cap Screw  
 
-**Black Diamond Ice Tool Head Bolt**  
+**Black Diamond Hydra Head Bolt**  
 - Long Bolt - M8-1.25, 25mm, Low Head Socket Cap Screw
 - Short Bolt - M8-1.25, 21mm, Low Head Socket Cap Screw
 - 5mm wrench for bolt
 {% include figure image_path="/assets/images/2025-10-19-bolt-sizes/bd_head_long.jpeg" %}
 {% include figure image_path="/assets/images/2025-10-19-bolt-sizes/bd_head_short.jpeg" %}
  
-**Black Diamond Ice Tool Pommel Bolt**  
+**Black Diamond Hydra Pommel Bolt**  
 - M5-0.8, 35mm, Socket Head Cap Screw (9mm head diameter)
 - Serrated safety washer
 - 4mm wrench for bolt    
