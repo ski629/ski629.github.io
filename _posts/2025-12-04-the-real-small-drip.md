@@ -61,7 +61,7 @@ Pitch four was my project. I adopted similar tactics, combining free-climbing se
 
 The 2024-2025 season was not kind to RSD. It never really came in. We did return to the route once, but only to work on pitch three. It just wasn’t motivating to try to push the line with no ice to work toward.
 
-
+{% include figure popup=true image_path="/assets/images/2025-12-04-the-real-small-drip/grinchy.jpeg" caption="This little creature and my girlfriend Christine spent a day this fall helping with trail maintenance. You can thank them for the bows made of flagging tape." %}
 
 #### A diversion into ethics
 
