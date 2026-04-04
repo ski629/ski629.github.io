@@ -6,7 +6,7 @@ excerpt: I don't have a problem, you do!
 header:
     overlay_image: /assets/images/2026-04-03-addiction/header.jpeg
     teaser: /assets/images/2026-04-03-addiction/header.jpeg
-    caption: "I never get tired of daggers of ice"
+    caption: "I never get tired of ice daggers"
 ---
 I think a lot about the stories we tell ourselves, about why we do things. I’ve been trying to keep my stories in line with my reality, and keep my motivations more internal than external.
 
