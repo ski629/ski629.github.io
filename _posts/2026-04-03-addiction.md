@@ -112,7 +112,7 @@ Ascend the summer trail and continue up the valley. A little ways before you rea
 **P0, M-Easy, 5m**  
 Climb any of the short breaks in the lower step to gain a snow bowl. Trudge up and left to a two ring-bolt anchor below the ice
 
-**P1, Stairs and Flowers, WI5, 25m**  
+**P1, Acid Howl, WI5, 25m**  
 If the ice touches down, climb it to a two ring-bolt anchor on the right (may be buried).
 
 **P1, Addiction, M6+, 25m, 4 bolts**  
@@ -124,7 +124,7 @@ If the ice isn’t low enough for that, branch right instead after the second bo
 **P2, Acid Howl, WI3, 50m**  
 Climb ice (sometimes thin and poorly protected) until you are able to gain the snow bowl above. Trudge up to the largest rock outcrop on the right and a two ring-bolt anchor below a yellow streak (possibly buried).
 
-**P3, Stairs and Flowers, WI5, 40m**  
+**P3, Acid Howl, WI5, 40m**  
 If the ice touches down, climb it! Belay in a huge rock cave on the right.
 
 **P3, Addiction, M7+ WI5, 35m, 12 bolts**  
