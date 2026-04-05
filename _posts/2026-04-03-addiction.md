@@ -94,6 +94,20 @@ I’m delighted about Addiction because it feels like a return to intrinsic moti
 
 Climbing is an addiction, but perhaps it can be a healthy one.
 
+**Pondering the past**  
+In the era before social media, it wasn’t uncommon for a single route to see multiple ‘First Ascents’. Information moved more slowly between groups of climbers, so sometimes parties would send and name a route, not knowing it had already been climbed. Acid Howl seems to be one of these cases, although perhaps more due to willfully discarding prior claims than any legitimate confusion.
+
+_Waterfall Ice Climbs in the Canadian Rockies_ has the pure ice version of this route as:  
+_Acid Howl, FA: Scott Backes, Joe Josephson. Jan ‘93_
+
+But it was documented in _Rock and Ice_ many years prior, back in 1986, as:  
+_California Dreaming, FA: Paul Obanhein, Craig Reason. Jan ‘85_
+
+So to rightly honor the past, it’s perhaps best referred to as California Dreaming.
+
+And to keep the record in one place, the credit for the original mixed variation is:  
+_Stairs and Flowers, FA: Eric Dumerac and Raph Slawinski. Jan ‘01_
+
 {% include figure popup=true  image_path="/assets/images/2026-04-03-addiction/route line.jpeg" caption="Approximately climbing line for Addiction." %}
 
 <span id="description">**Addiction**</span>  
