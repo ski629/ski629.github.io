@@ -95,7 +95,7 @@ I’m delighted about Addiction because it feels like a return to intrinsic moti
 Climbing is an addiction, but perhaps it can be a healthy one.
 
 **Pondering the past**  
-In the era before social media, it wasn’t uncommon for a single route to see multiple ‘First Ascents’. Information moved more slowly between groups of climbers, so sometimes parties would send and name a route, not knowing it had already been climbed. Acid Howl seems to be one of these cases, although perhaps more due to willfully discarding prior claims than any legitimate confusion.
+In the era before social media, it wasn’t uncommon for a single route to see multiple ‘First Ascents’. Information moved more slowly between groups of climbers, so sometimes parties would send and name a route, not knowing it had already been climbed. Acid Howl seems to be one of these cases, although perhaps more due to willful disregard of prior claims than any legitimate confusion.
 
 _Waterfall Ice Climbs in the Canadian Rockies_ has the pure ice version of this route as:  
 _Acid Howl, FA: Scott Backes, Joe Josephson. Jan ‘93_
