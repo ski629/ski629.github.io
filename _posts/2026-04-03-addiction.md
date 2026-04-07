@@ -7,6 +7,15 @@ header:
     overlay_image: /assets/images/2026-04-03-addiction/header.jpeg
     teaser: /assets/images/2026-04-03-addiction/header.jpeg
     caption: "I never get tired of ice daggers"
+gallery:
+  - image_path: /assets/images/2026-04-03-addiction/rockice44.jpeg
+    url: /assets/images/2026-04-03-addiction/rockice44.jpeg
+  - image_path: /assets/images/2026-04-03-addiction/rockice45.jpeg
+    url: /assets/images/2026-04-03-addiction/rockice45.jpeg
+  - image_path: /assets/images/2026-04-03-addiction/rockice46.jpeg
+    url: /assets/images/2026-04-03-addiction/rockice46.jpeg
+  - image_path: /assets/images/2026-04-03-addiction/rockice47.jpeg
+    url: /assets/images/2026-04-03-addiction/rockice47.jpeg
 ---
 I think a lot about the stories we tell ourselves, about why we do things. I’ve been trying to keep my stories in line with my reality, and keep my motivations more internal than external.
 
@@ -20,7 +29,7 @@ So, by chance, there was now a solid stretch of routinely formed but completely 
 
 [Jump to route description](#description)
 
-**Exploring with Edgerton**  
+## Exploring with Edgerton  
 On my first day up there, Matt and I brought a drill to retrofit some single bolt anchors. Right away, an opportunity presented itself. While pitch one didn’t come down low enough to climb as a pure ice line, it did come down much further than it had when Raph Slawinski put up Stairs and Flowers. I headed up the first couple bolts of S&F with the drill, and added a two bolt variation that let us gain the ice more directly. I offered Matt the first crack and he dug deep to get it done. It’s a short sequence, but it packs a punch.
 
 {% include figure popup=true  image_path="/assets/images/2026-04-03-addiction/p1 overview b.jpeg" caption="Addiction gains the ice as formed pretty directly. Stairs and Flowers traverses in at the height where the ice is first covered in snow." %}
@@ -36,7 +45,7 @@ My eyes wandered around the cliff, eventually piecing together a concept of a li
 
 {% include figure popup=true  image_path="/assets/images/2026-04-03-addiction/p2 rap.jpeg" caption="Rappelling from P2, again this photo is included to help locate it in high snow" %}
 
-**Making it happen with McNamara**  
+## Making it happen with McNamara
 Gavin McNamara and I had stalled out on a project elsewhere on the headwall, and we decided to take the first crack at establishing a new third pitch for S&F together instead.
 
 On the drive out, Gavin mentioned that I would always say things with such confidence that he’d go along with them even if they were a bad idea. A few hours later, I was prodding him across a touchy slab, when it ripped out and carried him with it. No exclamations of ‘Avalanche!’ were heard, only my giggling and a dejected ‘Aww, Greg…’. Fortunately the only harm done was some snow getting into his boots.
@@ -56,7 +65,7 @@ The final stretch led up the steep headwall to a stance, and my bolt-count guess
 
 {% include figure popup=true  image_path="/assets/images/2026-04-03-addiction/foot.jpg" caption="If you squint, you can see my feet dangling out the cave, suspended from my wedged butt" %}
 
-**Sending with Slawinski**  
+## Sending with Slawinski
 Raph offered to join for the next session, wanting to be part of the successor to Stairs and Flowers. But, a solid month of horrendous avalanche conditions forestalled our return. When it came time to go back, we were still worried about cornices. We made the Nemesis area our plan A for the day. But, on our drive out, we found minimal cornices on the ridge. We decided to give Addiction a try.
 
 
@@ -87,30 +96,46 @@ Initially it was like climbing through a waterfall, but plastic ice followed. So
 {% include figure popup=true  image_path="/assets/images/2026-04-03-addiction/ice stem s.jpeg" caption="Transitioning back and forth, rock to ice, is always a treat." %}
 
 
-**Brooding with Barrett**  
+## Brooding with Barrett
 My relationship with climbing has been a bit of a roller coaster ride these past few years. What started as pure love of the game had morphed into a desire to perform, to be recognized, to turn aspects of it into more than a hobby.
 
 I’m delighted about Addiction because it feels like a return to intrinsic motivation for me. I did a thing I wanted to do, with people I wanted to do it with, because I wanted to do it. Those other external motivations are still there, but they’re secondary, and I think my relationship with them has become more positive.
 
 Climbing is an addiction, but perhaps it can be a healthy one.
 
-**Pondering the past**  
-In the era before social media, it wasn’t uncommon for a single route to see multiple ‘First Ascents’. Information moved more slowly between groups of climbers, so sometimes parties would send and name a route, not knowing it had already been climbed. Acid Howl seems to be one of these cases, although perhaps more due to willful disregard of prior claims than any legitimate confusion.
+## Pondering the past  
+In the era before social media, it wasn’t uncommon for a single route to see multiple ‘First Ascents’. Information moved more slowly between groups of climbers, so sometimes parties would send and name a route, not knowing it had already been climbed. Acid Howl seems to be one of these cases, although perhaps more due to willful disregard of prior claims than any legitimate confusion. 
 
 _Waterfall Ice Climbs in the Canadian Rockies_ has the pure ice version of this route as:  
-_Acid Howl, FA: Scott Backes, Joe Josephson. Jan ‘93_
+>Acid Howl, FA: Scott Backes, Joe Josephson. Jan ‘93  
+
+>Acid Howl Right Side, FA: Christophe Moulin, Richard Ouairy, April '94
 
 But it was documented in _Rock and Ice_ many years prior, back in 1986, as:  
-_California Dreaming, FA: Paul Obanhein, Craig Reason. Jan ‘85_
+> California Dreaming, FA: Paul Obanhein, Craig Reason. Jan ‘85
 
-So to rightly honor the past, it’s perhaps best referred to as California Dreaming.
+So to rightly honor the past, it’s perhaps best referred to as **California Dreaming**.
 
 And to keep the record in one place, the credit for the original mixed variation is:  
-_Stairs and Flowers, FA: Eric Dumerac and Raph Slawinski. Jan ‘01_
+> Stairs and Flowers, FA: Eric Dumerac and Raph Slawinski. Jan ‘01
+
+Below is the relevant excerpt from Rock and Ice. It's hard to imagine climbing that piece of ice, reading this description, and still having any degree of uncertainty or confusion. Unfortunately, it's more pragmatic for me to use the name Acid Howl in this post than to fully commit to the fight against thirty years of momentum.   
+
+> Jay had done Nemesis last year, so Paul Obanhein and I went in to do it. The guide book said the route was located three hours up the Stanley Glacier trail on the right side. They looked about four pitches high and of pretty extreme difficulty, so we decided it must be what we were looking for. The only problem seemed to be that the guide book and Jay both said to allow three hours for the approach. We figured that we had cranked it off, and that they had overestimated, thus accounting for the difference. [...] 
+>
+> [...]
+> 
+> The first pitch was 100 feet of terrifyingly thin ice before more substantial stuff came into reach. The second would have been pretty mellow except that Obi bashed his lip with a hammer and left some very unaesthetic blood spots all over the ice. The third pitch was a 140-foot freestanding pillar. Fortunately, it was Obi's to deal with. At one third height, he came to a spot where it was fractured from side to side leaving a two-inch gap through which you could see the rock wall 15 feet away. Following the pitch, I found it to be even harder than the Pilsner Pillar. Extremely hard brittle ice at a consistently steep angle made for a very sustained pitch. The last pitch was a 40-foot pillar, which I hooked my way up. We rapped off as quickly as possible, wanting to have maximum daylight for the descent.
+> 
+> Our description of the route didn't match Jay's at all, so, when we got back to Tahoe, we compared slides and found out why. Nemesis was another hour and a half up the valley; what we had done was bag the first ascent of a new route. California Dreamin' was the name we came up with. Grade 6, 175 meters are the numbers of interest.
+> 
+> &mdash; Craig Reason, Rock and Ice, Vol. 11, pg. 46-7, Jan/Feb 1986.
+
+{% include gallery caption="Rock and Ice, Vol. 11, pg. 44-47 Jan/Feb 1986." %}
 
 {% include figure popup=true  image_path="/assets/images/2026-04-03-addiction/route line.jpeg" caption="Approximately climbing line for Addiction." %}
 
-<span id="description">**Addiction**</span>  
+## <span id="description">Addiction</span>  
 **Stanley Headwall**  
 **M7+ WI5 150m**  
 **FA/Prep: Greg Barrett, Raphael Slawinski, Matt Edgerton, Gavin McNamara**  
@@ -118,40 +143,48 @@ _Stairs and Flowers, FA: Eric Dumerac and Raph Slawinski. Jan ‘01_
 
 At first, there was the ice line Acid Howl. Then, it didn’t fully form, and Raph Slawinski created the mixed line Stairs and Flowers. Then, pitch three fell off and I got excited about the idea of squeezing through a cave to gain the ice instead. Thus, Addiction was conceived.
 
-Addiction provides a two bolt variation to pitch one of S&F, shares the second pitch of Acid Howl, has a fully independent third pitch to gain the Acid Howl ice, and finishes up the ice. All combinations of the lines are described below.
+Addiction provides a two bolt variation to pitch one of S&F, shares the second pitch of Acid Howl, has a fully independent third pitch to gain the Acid Howl ice, and finishes up the ice. All combinations of the lines are described below. Best efforts have been made to keep lengths and grades accurate, but they will vary based on conditions and exact line chosen.
 
 **Approach**  
 Ascend the summer trail and continue up the valley. A little ways before you reach Acid Howl, the summer trail will steepen and start to head up and leftward. Leave the trail at this point, crossing diagonally through the woods toward the route. Ascend the slope. A sheltered stance to rack up can be found down and left of P0. Note that this approach slope presents significant avalanche hazard, as does the overhead. More so than many other headwall routes.
 
 **P0, M-Easy, 5m**  
-Climb any of the short breaks in the lower step to gain a snow bowl. Trudge up and left to a two ring-bolt anchor below the ice
+Scramble up any of the short breaks in the lower step to gain a snow bowl. Trudge up and left to a two ring-bolt anchor below the ice
+
+### Pitch One
 
 **P1, Acid Howl, WI5, 25m**  
 If the ice touches down, climb it to a two ring-bolt anchor on the right (may be buried).
 
-**P1, Addiction, M6+, 25m, 4 bolts**  
+**P1, Addiction, M6+ WI5, 25m, 4 bolts**  
 If the ice is low enough, climb past two bolts directly above the anchor. Branch up and left past two more bolts, pulling a short but powerful roof. Continue up a section of steep ice, followed by another stretch of easier ice to the same anchor.
 
-**P1, Stairs and Flowers, M7+, 25m**  
+**P1, Stairs and Flowers, M7+ WI4, 30m**  
 If the ice isn’t low enough for that, branch right instead after the second bolt. Pull a roof, and continue up and right past more bolts until you are able to traverse back left and gain the ice.
 
-**P2, Acid Howl, WI3, 50m**  
+### Pitch Two
+
+**P2, Acid Howl, WI3, 30m**  
 Climb ice (sometimes thin and poorly protected) until you are able to gain the snow bowl above. Trudge up to the largest rock outcrop on the right and a two ring-bolt anchor below a yellow streak (possibly buried).
 
-**P3, Acid Howl, WI5, 40m**  
+### Pitch Three
+
+**P3, Acid Howl, WI5-6+, 50m**  
 If the ice touches down, climb it! Belay in a huge rock cave on the right.
 
 **P3, Addiction, M7+ WI5, 35m, 12 bolts**  
-Belay from the left side of a chossy rock pedestal. Climb the pedestal to its top. Head up the steep face to the top of a hanging slab. Climb tenuously right across the slab to gain the base of the cave. Clip a bolt low on the left wall of the cave, and continue up to its top. Clip a bolt in the ceiling of the cave. Squeeze out the top of the cave, clipping a bolt on the outside face as you go. Cut feet, swing out, get established, and flick the rope as necessary to minimize drag. Continue up the steep headwall on progressively spacier bolts to gain a two ring-bolt anchor on a small ledge.
+Belay from the left side of a chossy rock pedestal. Climb the pedestal to its top. Head up the steep face to the top of a hanging slab. Climb tenuously right across the slab to gain an ice dagger pouring out the base of the cave. Clip a bolt low on the left wall of the cave, and continue up to its top. Clip a bolt in the ceiling of the cave. Squeeze out the top of the cave, clipping a bolt on the outside face as you go. Cut feet, swing out, get established, and flick the rope as necessary to minimize drag. Continue up the steep headwall on progressively spacier bolts to gain a two ring-bolt anchor on a small ledge.
 
-Rope drag is tricky to manage on this pitch. Alpine draws on bolts 1 and 4-7 help, as well as a double or triple length sling on bolt 8. Use your judgement.
+Rope drag is tricky to manage on this pitch. Alpine draws on bolts 1 and 4-7 help, as well as a double or triple length sling on bolt 8. Use your judgment.
 
 Consider brining a screw or two for the final sequence to the anchor.
 
-**P3, Stairs and Flowers, M8**  
-A large portion of this pitch has fallen off (including the bolts), and it doesn’t go anymore.
+**P3, Stairs and Flowers, M8 WI5+, 50m**  
+Tragically, a large portion of this pitch has fallen off (including the bolts). The remaining line is somewhat compromised and it ends in a blank slab quite a ways below the ice.
 
-**P4, Acid Howl, WI4/5, 20-40m**  
+### Pitch Four & Five
+
+**P4, Acid Howl, WI4-5, 40m**  
 Continue up steep but stepped ice to the snow slope above.
 
 **P5, Acid Howl, WI5 50m**  
