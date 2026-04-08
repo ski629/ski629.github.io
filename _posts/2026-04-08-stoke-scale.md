@@ -40,12 +40,4 @@ For me, shared experiences in the mountains create a bond that stands the test o
 {% include figure popup=true  image_path="/assets/images/2026-04-08-stoke-scale/bell.jpeg" caption="Alex Popov and I on the summit of Mount Bell. Type 1 Fun on the way up, Type 2 Fun on the way down, Type 1 Stoke the whole time." %}
 {% include figure popup=true  image_path="/assets/images/2026-04-08-stoke-scale/bugs crop.jpeg" caption="Charles Kalinsky and I kickin' it on top of Bugaboo Spire" %}
 {% include figure popup=true  image_path="/assets/images/2026-04-08-stoke-scale/yam.jpeg" caption="Stoke doesn't always look cool, but it does always feel good. Topping out another Kallen 34 route on Yamnuska with Nick Baggaley." %}
-
-
-
-
-
-
-
-
-
+{% include figure popup=true  image_path="/assets/images/2026-04-08-stoke-scale/nightmare.jpeg" caption="Gavin McNamara on Nightmare on Wolf Street. Surprisingly stoked for someone who's tolerating me jugging around with a camera, trying to direct him, while he's working hard to send. " %}
