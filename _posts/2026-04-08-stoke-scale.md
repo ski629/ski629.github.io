@@ -35,7 +35,7 @@ An interesting dynamic here is the social shuffling that happens with these Stok
 For me, shared experiences in the mountains create a bond that stands the test of time, and those relationships pick right back up right where they left off when our Stoke re-aligns.
 
 ### Some Highlights  
-I think there's a lot more to dig into regarding the interaction between stoke and mountain relationships, but in lieu of that, here's some Type 1 Stoke highlights from seasons past. 
+I think there's a lot more to dig into regarding the interaction between stoke and mountain relationships, but in lieu of that, here's some more Type 1 Stoke highlights from seasons past. 
 
 {% include figure popup=true  image_path="/assets/images/2026-04-08-stoke-scale/rimwall.jpeg" caption="Gabs on the FA of Iron Tears on the Rimwall, never one to be short on stoke." %}
 {% include figure popup=true  image_path="/assets/images/2026-04-08-stoke-scale/riptide.jpeg" caption="Sometimes stoke bears an odd resemblence to a barbershop quartet. Riptide, with Chris Petrauskas and Nick Baggaley." %}
