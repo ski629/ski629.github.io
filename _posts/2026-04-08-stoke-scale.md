@@ -8,7 +8,7 @@ header:
     teaser: /assets/images/2026-04-08-stoke-scale/tounge.jpeg
     caption: "Christine Song smashing daggers at Johnston Canyon on our second date."
 ---
-As the seasons transition in the Rockies, everyone seems to shift their Stoke toward summer at their own pace. Some people sport climbing sunny south-aspect walls, others move high-and-north to keep ice alive. It’s a perk of living here, really. Our ‘shoulder season’ is a ‘choose your own season’, season. If you head west to the Columbia Valley, you can jump ahead a full month anytime you want.
+As the seasons transition in the Rockies, everyone seems to shift their Stoke toward summer at their own pace. Some people sport climb sunny south-aspect walls, others move high-and-north to keep ice alive. It’s a perk of living here, really. Our ‘shoulder season’ is a ‘choose your own season’, season. If you head west to the Columbia Valley, you can jump ahead a full month anytime you want.
 
 ### The Fun Scale
 You may have heard of the ‘Fun Scale’, enumerating three types of fun. Concisely, these refer to:
