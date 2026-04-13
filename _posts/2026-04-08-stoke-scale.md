@@ -28,7 +28,7 @@ I’d like to propose a Stoke Scale, which in many ways mirrors the Fun Scale.
 
 This scale can describe your relationship with any activity, but part of its utility comes in communicating these seasonal transitions. In mid winter, you might be Type 1 Stoked on ice climbing. But now that rock is an option, your ice-stoke is more Type 2. You’ll still have a good time if you go out, but you’d rather sign up to rock climb. Rock is now Type 1. You’re still not stoked for dry tooling, which was Type 3 for you the whole time.
 
-{% include figure popup=true  image_path="/assets/images/2026-04-08-stoke-scale/cascade.jpeg" caption="Adam Mertens on the first summit of a 146 kilometres and 11,181 metres, 3 day epic. Type 1 Stoke for both of us, Type 1 Fun for me (I joined for only Cascade), almost certainly Type 2 Fun for him." %}
+{% include figure popup=true  image_path="/assets/images/2026-04-08-stoke-scale/cascade.jpeg" caption="Adam Mertens on the first summit of a 146 kilometres, 11,181 meter, 3 day epic. Type 1 Stoke for both of us, Type 1 Fun for me (I joined for only Cascade), almost certainly Type 2 Fun for him." %}
 
 An interesting dynamic here is the social shuffling that happens with these Stoke transitions. Intense mountain folk often seem to choose their activity first and their partner second. We spend our time in little cliques of Type 1 Stoke folks, for our current Type 1 activity. And sometimes that means your best friends are seasonal. Some people find this disquieting, but I think it’s more about living your truth.
 
