@@ -87,6 +87,8 @@ Solid gate carabiners are not suitable for high-water environments. The springs 
 
 Shrink-wrapped non-stainless draws are also not suitable for high-water environments. Water can become trapped behind the shrink-wrap / plastic and cause non-stainless dogbones to corrode quickly. Additionally, the shrink wrap/plastic can prevent a visual inspection.
 
+{% include figure popup=true  image_path="/assets/images/2026-04-13-retrofitting/junkdraw.jpeg" caption="Which would you rather clip? Left is a stainless quick-link, stainless chain, and a carbon steel wire-gate. Right is... not. It was pulled off a route at The Cineplex." %}
+
 # What we use (Tools & Tactics)
 ## Placing glue-ins
 **Gear:**
