@@ -26,6 +26,8 @@ Again, gold for hammocks and tarps. Mooring hitch around the tree, trucker's hit
 
 <a href="https://www.animatedknots.com/mooring-hitch-knot" target="_blank">Mooring Hitch on AnimatedKnots.com</a>
 
+The Tumble Hitch is a fancier knot for similar applications, but generally it's advantages aren't important in these contexts. 
+
 <a href="https://www.animatedknots.com/tumble-hitch-knot" target="_blank">Tumble Hitch on AnimatedKnots.com</a>
 
 ## Zeppelin Bend ("69 Knot")
