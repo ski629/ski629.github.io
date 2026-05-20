@@ -15,7 +15,7 @@ Need to tighten up a line, but want to take it down later? Trucker's hitch. If y
 
 If you're worried about it releasing by accident, either feed the tail through the last bight, or tie off the last bight with an overhand.  
 
-This hitch is gold for hammocks and tarps.
+This hitch is gold for hammocks and tarps. You don't have to own a Tacoma to use it, but it does help.
 
 <a href="https://www.animatedknots.com/truckers-hitch-knot" target="_blank">Trucker's Hitch on AnimatedKnots.com</a>
 
@@ -54,7 +54,9 @@ Start with a slip knot, stick a tail through, and pull. Boom. Bowline.
 ## Paracord 550
 Not every knot needs to be a clove hitch, and not everything needs to be strung up with accessory cord. Paracord is cheaper and super strong enough. The '550' just means 550 pounds, there are other strengths. 
 
-Buy some for non-safety, less than bodyweight situations. Think: Tarps, gear hangs, loops for racking small tools.  
+Buy some for non-safety, less than bodyweight situations. Think: Tarps, gear hangs, loops for racking small tools.
+
+Don't rappel off it. Do I need to say that? I hope not. I'm going to say it anyway. Don't use it as bail tat. I know you're thinking about it, guy who keeps making v-threads with shoelaces.
 
 {% include figure popup=true image_path="/assets/images/2026-05-19-non-climbing-knots/paracord-bracelet.jpg" caption="Maybe just keep a bundle in your garage though, unless you really like intimidating strangers." %}
 
