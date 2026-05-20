@@ -11,7 +11,7 @@ header:
 Climbers have a tendency to use our normal collection of climbing knots for non-climbing applications. That's a big step up from a long series of half hitches, but we can do better. Consider this a 'Select' collection of knots that will take you a bit further.  
 
 ## Trucker's Hitch
-Need to tighten up a line, but want to take it down later? Trucker's hitch. If you construct it with two slip knots, you just have to pull a single tail to release it later. The classic application of this knot is securing loads, hence the name. 
+Need to tighten up a line, but want to take it down later? Trucker's hitch. If you construct it with two slip knots, you just have to tug twice to release it later. The classic application of this knot is securing loads, hence the name. 
 
 If you're worried about it releasing by accident, either feed the tail through the last bight, or tie off the last bight with an overhand.  
 
