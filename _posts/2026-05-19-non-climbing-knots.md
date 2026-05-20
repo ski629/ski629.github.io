@@ -44,7 +44,7 @@ Making a leash for something like a rotary hammer? Sending a drill bit up on a t
 
 <a href="https://www.animatedknots.com/constrictor-knot-folding-method" target="_blank">Constrictor Knot (Folding Method) on AnimatedKnots.com</a>
 
-## Easy Bowline
+## Faster Bowlines
 Sometimes it might be easier to just hammer out a quick bowline (perhaps around a tree), but there's a faster way than what's typically taught. 
 
 Start with a slip knot, stick a tail through, and pull. Boom. Bowline.
