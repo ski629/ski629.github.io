@@ -4,9 +4,9 @@ title:  "Non-climbing knots that climbers should know"
 share: false
 excerpt: Setting up a hammock? Securing a tarp? Not everything needs to be a bowline, a clove hitch, or an overhand.
 header:
-    overlay_image: /assets/images/2026-05-19-non-climbing-knots/knot-banner.jpg
-    teaser: /assets/images/2026-05-19-non-climbing-knots/knot-banner.jpg
-    caption: "If you don't know knots, tie lots."
+    overlay_image: /assets/images/2026-05-19-non-climbing-knots/hammock.jpg
+    teaser: /assets/images/2026-05-19-non-climbing-knots/hammock.jpg
+    caption: "Just your everyday rainbow unicorn ascending to a hammock in the sky."
 ---
 Climbers have a tendency to use our normal collection of climbing knots for non-climbing applications. That's a big step up from a long series of half hitches, but we can do better. Consider this a 'Select' collection of knots that will take you a bit further.  
 
