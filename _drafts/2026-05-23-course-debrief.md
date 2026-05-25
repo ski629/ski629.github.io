@@ -42,3 +42,40 @@ I don't have a free authoritative resource to point you too, but you can find in
 
 ## Place to Practice
 So you've just developed new skills, and you want to know where to go to practice them. This is far from an exhaustive list, but it can help get you started.
+
+### Top Rope
+This is unfortunately a tricky one, as most venues in the Rockies don't have easy top access. If you're stoked on climbing and want to open up more terrain, consider taking a lead course!
+- Yam Bluffs
+
+### Lead Sport Climbing
+The world is your oyster. What does that expression even mean? We have lifetimes worth of sport climbing. Grab a guidebook and follow your heart. Some suggestions:
+- Grassi Lakes (Canmore)
+- Back of the Lake (Lake Louise)
+- Moose Mountain (Bragg Creek)
+- Cougar Creek (Canmore)
+- The Black Band (Tunnel Mountain, Banff)
+
+### Multi-pitch
+You don't have to be in true multi-pitch terrain to practice. You can do any single-pitch route as a multi by belaying your partner up to you and rappelling! There are also places that are intentionally set up to have short (2-15m) pitches so you can practice. If you want to get practice on real multi-pitch terrain, consider routes that are easy for you so you can do a lot of pitches and focus on practicing transitions.
+
+*Practice Areas*
+- Sunshine Slabs (The Ledge)
+- Zygote
+- Wasootch C Slab
+
+*Easy Multipitch*
+- Aftonroe (Banff)
+- Rundlehorn (Banff)
+
+### Trad Climbing
+Unfortunately, we have limited single pitch trad climbing. But, we have lifetimes of multi-pitch and alpine! Bring some trad gear out with you to place on sport climbs for practice, or check out:
+- Back of the Lake (Lake Louise)
+- Birdwatchers Crag (Kananaskis)
+- Wasootch Slabs (Kananaskis)
+
+### Rock Rescue
+For rock rescue, you truley do not need a decicated location. You can practice in your kitchen, dragging your couch over to your table. Or some trees on a hill in the park. It helps to have some sort of load pulling on the rope, whether that's your buddy, a weight on a pulley, or even a bungee cord.
+
+If you're dangling your buddy off a cliff, you have their life in your hands, so make very sure you're doing everything safely.
+
+Consider doing some rope ascension or a quick raise or lower as part of your crag day. Rock Rescue is like Avalanche Safety, we hope to never need to use it 'for real', but if we don't practice, we'll forget.
