@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Slipstream - ED1 925m - Snowdome"
+title:  "Slipstream"
 share: false
 excerpt: Alpine climbing is always an adventure, you just never know which part.
 header:
