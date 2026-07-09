@@ -1,9 +1,34 @@
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-7SSXQDQ9JJ"></script>
 <script>
     window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
+
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+
     gtag('js', new Date());
 
     gtag('config', 'G-7SSXQDQ9JJ');
+
+    function scrollToAnchor() {
+        if (window.location.hash) {
+            const target = document.querySelector(window.location.hash);
+
+            if (target) {
+                let handler = () => {
+                    target.scrollIntoView({behavior: 'smooth', block: 'start'});
+                };
+                setTimeout(handler, 250);
+                setTimeout(handler, 500);
+                setTimeout(handler, 1000);
+            }
+        }
+    }
+
+    // 1. Handle visitors landing directly on the page via an anchor link
+    window.addEventListener('load', scrollToAnchor);
+
+    // 2. Handle users clicking an anchor link while already browsing the page
+    window.addEventListener('hashchange', scrollToAnchor);
 </script>
 <link rel="shortcut icon" type="image/png" href="/assets/favicon/favicon.ico">
