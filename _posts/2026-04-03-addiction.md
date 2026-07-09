@@ -21,13 +21,13 @@ I think a lot about the stories we tell ourselves, about why we do things. I’v
 
 I saw a cool overhanging cave with ice in it. I want to climb a cool overhanging cave with ice in it. I will drag partners along, and put in a bolt line, leading to a cool overhanging cave with ice in it.
 
+[Jump to route description](#description)
+
 {% include figure popup=true  image_path="/assets/images/2026-04-03-addiction/overview s.jpeg" caption="So much ice, so little traffic." %}
 
 Sure, there are other motivations too. Matt Edgerton and I were exploring Stairs and Flowers on the Stanley Headwall, a mixed variation to the rarely formed Acid Howl. It’s a big piece of ice, and I was always surprised it didn’t see more action. As it turns out, the lack of action was due to half the mixed route falling off. A chunk of rock the size of a shipping container has parted ways with the wall, and a solid portion of the bolt line fell off with it.
 
 So, by chance, there was now a solid stretch of routinely formed but completely inaccessible WI5 that needed a mixed pitch for access. It’s been a couple decades since that was the case anywhere on the Headwall.
-
-[Jump to route description](#description)
 
 ## Exploring with Edgerton  
 On my first day up there, Matt and I brought a drill to retrofit some single bolt anchors. Right away, an opportunity presented itself. While pitch one didn’t come down low enough to climb as a pure ice line, it did come down much further than it had when Raph Slawinski put up Stairs and Flowers. I headed up the first couple bolts of S&F with the drill, and added a two bolt variation that let us gain the ice more directly. I offered Matt the first crack and he dug deep to get it done. It’s a short sequence, but it packs a punch.
