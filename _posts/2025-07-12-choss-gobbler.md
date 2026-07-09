@@ -122,8 +122,8 @@ Continue up the left-facing corner with difficulty past a bulge (aided by FA, li
 **P11, 5.10 A0 (5.10+/5.11-?), 40m**  
 From this belay, surprisingly easy ground leads up and left below the roofs. Then, climb a steep wall and make an exposed traverse back right to regain the crack system. Difficult climbing leads through a roof and onto a ledge (aided by FA). Continue up more easily to reach the summit plateau and belay off boulders. In daylight, the position of this exit sequence would be hard to beat.
 
-**Descent** 
+**Descent**  
 Scramble down to the southeast to reach the extreme southern tip of Protection Valley. Between the many waterfalls, one buttress permits moderate scrambling further down than the others. Scramble as far as is reasonable to reach a two-bolt rappel station (51.33399, -115.96911). A rope stretching 60m rappel led to a snow cone in the middle of July. Continue 500m north to reach another series of waterfalls, which can be bypassed on the right, or by descending a very cool cleft in the middle of them (51.33798, -115.96966). Continue down the valley to rejoin the approach trail.
 
-**Rack** 
+**Rack**  
 Doubles from black totem (.2)  to  BD #2, single 3&4. A full set of nuts. A selection of pins is not mandatory but is useful. 60m half ropes. 
