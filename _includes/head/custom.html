@@ -19,22 +19,40 @@
                     setTimeout(() => {
                         console.log('Attempt scroll ' + timeout)
                         target.scrollIntoView({behavior: 'smooth', block: 'start'});
-                    }, timeout)};
-                handler( 250);
-                handler( 500);
-                handler( 750);
-                handler( 1000);
-                handler( 1250);
-                handler( 1500);
-                handler( 2000);
+                    }, timeout)
+                };
+                handler(100);
+                handler(200);
+                handler(300);
+                handler(400);
+                handler(500);
+                handler(600);
+                handler(700);
+                handler(800);
+                handler(900);
+                handler(1000);
             }
         }
     }
 
-    // 1. Handle visitors landing directly on the page via an anchor link
+    // Handle visitors landing directly on the page via an anchor link
     window.addEventListener('load', scrollToAnchor);
 
-    // 2. Handle users clicking an anchor link while already browsing the page
-    window.addEventListener('hashchange', scrollToAnchor);
+    // This doesn't work, probably because hashchange is being intercepted by the framework
+    // window.addEventListener('hashchange', scrollToAnchor);
+
+    document.addEventListener('click', (event) => {
+        // Find the closest anchor tag
+        const anchor = event.target.closest('a');
+
+        // Check if it's an internal hash link
+        if (anchor && anchor.getAttribute('href').startsWith('#')) {
+            const targetHash = anchor.getAttribute('href');
+            console.log('User is navigating to hash:', targetHash);
+            // Let the hash change first by letting go of the thread
+            setTimeout(scrollToAnchor)
+        }
+    });
+
 </script>
 <link rel="shortcut icon" type="image/png" href="/assets/favicon/favicon.ico">
