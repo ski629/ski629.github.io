@@ -15,16 +15,18 @@
             const target = document.querySelector(window.location.hash);
 
             if (target) {
-                let handler = () => {
-                    target.scrollIntoView({behavior: 'smooth', block: 'start'});
-                };
-                setTimeout(handler, 250);
-                setTimeout(handler, 500);
-                setTimeout(handler, 750);
-                setTimeout(handler, 1000);
-                setTimeout(handler, 1250);
-                setTimeout(handler, 1500);
-                setTimeout(handler, 2000);
+                let handler = (timeout) => {
+                    setTimeout(() => {
+                        console.log('Attempt scroll ' + timeout)
+                        target.scrollIntoView({behavior: 'smooth', block: 'start'});
+                    }, timeout)};
+                handler( 250);
+                handler( 500);
+                handler( 750);
+                handler( 1000);
+                handler( 1250);
+                handler( 1500);
+                handler( 2000);
             }
         }
     }
