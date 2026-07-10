@@ -35,9 +35,15 @@ We put the ropes away and scrambled our way toward the pencil. It was tantalizin
 
 Our first proper break took place beside the rushing water atop the pencil. The temperature was cool but soothing, the setting idyllic. A ways above us a chossy band loomed, guarding our passage to the upper headwall.
 
+{% include figure popup=true image_path="/assets/images/2026-07-09-solar-circus/pencilbreak.jpg" caption="Enjoying the rest, oblivious to the challenges that lay ahead." %}
+
 The scrambling continued up an approachable ramp, which gave way to beautiful arete climbing that felt like it belonged on a high mountain ridge. At its top we got our first proper view of the waterfalls pouring through the upper tiers, a view I’d been dreaming of since February. A narrow walkway in the sky led across to our choss band.
 
+{% include figure popup=true image_path="/assets/images/2026-07-09-solar-circus/scrambling.jpg" caption="Perhaps I've been in the Rockies too long, but to me this qualifies as lovely scrambling." %}
+
 In true Rockies form, we decided to try to avoid climbing up the choss band by traversing across it. Gavin suggested we pull the rope back and use a running belay as we crossed. It looked terrible, but it was more exposed and loose than difficult. On the other side we packed the rope away and kept scrambling up to the headwall.
+
+{% include figure popup=true image_path="/assets/images/2026-07-09-solar-circus/traversechoss.jpg" caption="I haven't been in the Rockies long enough for *this* to look good." %}
 
 There is freedom in choosing your own line, but also some anxiety about making the right choice. I tied back in and meandered up a moderate but somewhat runout pitch, keeping an eye more on where we were heading next than what looked good right in front of me. I built an anchor atop a pinnacle and brought Gavin up, looking across at the bold start he’d face on the next pitch when I handed over the reins.
 
