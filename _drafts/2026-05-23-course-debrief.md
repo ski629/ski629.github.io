@@ -2,6 +2,7 @@
 layout: single
 title:  "Things I mentioned during our course (That you didn't have a chance to write down)"
 share: false
+hidden: true
 excerpt: Every instructional day has too many good topics for you to remember them all. Here's some reminders.
 header:
     overlay_image: /assets/images/2026-05-19-non-climbing-knots/hammock.jpg

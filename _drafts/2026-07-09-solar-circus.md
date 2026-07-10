@@ -2,6 +2,7 @@
 layout: single
 title:  "Solar Circus - 5.11- R 415m TD"
 share: false
+hidden: true
 excerpt: “Mountains are not Stadiums where I satisfy my ambition to achieve, they are the cathedrals where I practice my religion.” ―Anatoli Boukreev
 header:
     overlay_image: /assets/images/2026-07-09-solar-circus/banner.jpg
