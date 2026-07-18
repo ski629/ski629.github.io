@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Addiction M7+ WI5 150m"
+title:  "Addiction - M7+ WI5 150m"
 share: false
 excerpt: I don't have a problem, you do!
 header:
