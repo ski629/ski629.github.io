@@ -85,13 +85,21 @@ I went into our final pitch optimistically, but it was a true test piece for me.
 
 In my head, we were going to scramble out the choss and hike down to the top of Polar Circus to begin our descent. Gavin never had any intention of going beyond this point, and suggested that we start our rappels. I’m damn glad he did. Two incredible rope stretchers took us down the overhung wall, with absolutely spectacular views of the whole amphitheater and the surging waterfalls down its middle. A third rappel took us down rock slabs past the ribbon. It was ten o-clock, and our headlamps came out. We traversed on ledges before doing our final rappel in the spray beside the start of the upper tiers.
 
+{% include figure popup=true image_path="/assets/images/2026-07-09-solar-circus/bestrap.jpg" caption="A strong contender for the most beautiful rappel I've ever done." %}
+
 From here the adventure continued, but the excitement abated and it just became a mission to get home before sunrise. I found a lost ice tool as we hiked back out toward the pencil-turn ledge. I bet there’s a bunch more lost gear scattered across those ledges. We descended ledges skiers left of Polar Circus, alternately scrambling downward and rappelling off trees as we encountered cliffs. Eventually we came to the top of the first pitch of Polar, and did a final rappel off a single ring bolt to land at the base of the falls. The tails of our rope were swept downstream in the current. We packed them away for the last time and hiked back across the traverse ledge and down the avalanche gulley. It’s much less fun when it’s thin scree atop hard packed dirt. We dreamed of winter butt slides as we struggled downward.
+
+{% include figure popup=true image_path="/assets/images/2026-07-09-solar-circus/oddity.jpg" caption="What the heck is going on with this column of rock?" %}
 
 Finally we arrived back at the car, eighteen hours after we’d left it. It was a long day, but it felt civilized compared to our twenty-six hour saga on Confessions of a Choss Gobbler the year before.
 
 I’m proud of how we executed on this vision. It was ambitious and taxing, both physically and mentally. But everything went more or less ‘according to plan’. The climbing often felt bold and audacious, but never out of control. We prepared well and brought the right skills and tactics to bear. First ascents in the alpine always carry heightened risk, but it didn’t feel like we got away with something we shouldn’t have been doing.
 
+{% include figure popup=true image_path="/assets/images/2026-07-09-solar-circus/headlamp.jpg" caption="I love the contrast of the rock features in this photo." %}
+
 Strangely, a part of me feels almost like something is missing because it went so smoothly (in a relative sense). It’s as though I was waiting for the hammer to fall the whole time, and when it never did, it made the adventure feel almost incomplete. It’s not that I wanted something to go wrong, more that there was no singular point of adversity to identify as the obstacle we had to overcome or endure to succeed. There was no singular climax, just a steady siege.
+
+{% include figure popup=true image_path="/assets/images/2026-07-09-solar-circus/moody.jpg" caption="Moody lighting after sunset. The upper corners actually show well in this photo." %}
 
 All the same, this is another adventure which I’ll cherish for a lifetime. I’m going through the Apprentice Alpine Guide training and exams this summer, and it leaves me without as much time to do ‘personal’ climbing. So, I’m trying to really make those days count. For me, a day in the alpine is worth ten at the crag, and I’ll always be grateful for Gavin’s supportive, curious, and eternally positive vibes when we’re out there looking for trouble together.
 
