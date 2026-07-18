@@ -18,6 +18,8 @@ Every time I’ve stepped onto the slopes below the final tiers of Polar Circus,
 
 [Jump to route description](#description)
 
+{% include figure popup=true image_path="/assets/images/2026-07-09-solar-circus/topoupperroad.jpg" caption="A rough topo, don't read into it too closely. Look at the pitch breakdown, follow your alpine nose." %}
+
 As Gavin and I descended Polar Circus in February, we found ourselves staring up at the rock buttress on the left side of the amphitheatre. We traced lines across snowy ramps and up steep corners with our eyes. We saw a plausible path between weaknesses. A single blank section of steep gray rock presented the biggest question mark. But a seed had been planted in my mind, and I knew we needed to return in the summer.
 
 {% include figure popup=true image_path="/assets/images/2026-07-09-solar-circus/winter.jpg" caption="Out with Alex Weber and Josh Zahl in the winter, years ago." %}
@@ -218,6 +220,10 @@ Descend as for turning The Pencil on Polar, but after the small notch, continue 
 - Some nuts, especially medium to large.
 - Pins could be useful, particularly blades / peckers. The FA party placed only one due in part to having a single hammer.
 
+#### Topo Photos
+
 {% include figure popup=true image_path="/assets/images/2026-07-09-solar-circus/topoupper.jpg" caption="It's difficult to get a good angle for a topo. This angle contains all the major features, but heavily compresses some areas. Take it with a grain of salt, it likely isn't perfectly accurate." %}
 
-{% include figure popup=true image_path="/assets/images/2026-07-09-solar-circus/topoupperroad.jpg" caption="Again, very rough. Read the pitch breakdown, follow your alpine nose." %}
+{% include figure popup=true image_path="/assets/images/2026-07-09-solar-circus/topoupperroad.jpg" caption="The same topo from the top of the article." %}
+
+{% include figure popup=true image_path="/assets/images/2026-07-09-solar-circus/topolower.jpeg" caption="This is actually pretty accurate for the approach pitches." %}
