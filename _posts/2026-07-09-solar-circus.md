@@ -2,7 +2,6 @@
 layout: single
 title:  "Solar Circus - 5.11- R 415m TD"
 share: false
-hidden: true
 excerpt: “Mountains are not Stadiums where I satisfy my ambition to achieve, they are the cathedrals where I practice my religion.” ―Anatoli Boukreev
 header:
     overlay_image: /assets/images/2026-07-09-solar-circus/banner.jpg
@@ -15,8 +14,6 @@ toc_sticky: true
 ---
 ### A Fuzzy Plan
 Every time I’ve stepped onto the slopes below the final tiers of Polar Circus, I’ve been blown away. The majesty of those ribbons of ice pouring through an immaculate rock amphitheater is awe inspiring. Solar Circus was born out of a desire to experience that awe in a different season, from a different vantage point.
-
-[Jump to route description](#description)
 
 {% include figure popup=true image_path="/assets/images/2026-07-09-solar-circus/topoupperroad.jpg" caption="A rough topo, don't read into it too closely. Look at the pitch breakdown, follow your alpine nose." %}
 
