@@ -32,6 +32,8 @@ Twenty-two bolts. Twelve for lead protection, ten with rap rings for our descent
 
 We left town at five, got fast food, and found ourselves at the parking at seven. Hiking gave way to scrambling as we moved up rock steps, avoiding the loose avalanche gully to our left and the waterfalls to our right. We located the most plausible weakness through the rock band beside the first pitch of Polar Circus, and the rope came out.
 
+{% include figure popup=true image_path="/assets/images/2026-07-09-solar-circus/p3.jpg" caption="Tip-toeing up pitch three." %}
+
 Still in approach shoes, I worked my way up the slab. I found a bit of gear initially, but it didn’t take long before the climbing became runout. I asked Gavin if he wanted to add a bolt for future parties while he seconded the pitch, and he pointed out that we may not want to chip into our limited supply already. Another easy pitch followed. We worked our way across a ledge system and up a gulley before encountering another slab. The rock was excellent, but again it was a runout pitch. A theme was developing.
 
 {% include figure popup=true image_path="/assets/images/2026-07-09-solar-circus/pencil.jpg" caption="The pencil as a stunning waterfall." %}
@@ -217,3 +219,5 @@ Descend as for turning The Pencil on Polar, but after the small notch, continue 
 - Pins could be useful, particularly blades / peckers. The FA party placed only one due in part to having a single hammer.
 
 {% include figure popup=true image_path="/assets/images/2026-07-09-solar-circus/topoupper.jpg" caption="It's difficult to get a good angle for a topo. This angle contains all the major features, but heavily compresses some areas. Take it with a grain of salt, it likely isn't perfectly accurate." %}
+
+{% include figure popup=true image_path="/assets/images/2026-07-09-solar-circus/topoupperroad.jpg" caption="Again, very rough. Read the pitch breakdown, follow your alpine nose." %}
