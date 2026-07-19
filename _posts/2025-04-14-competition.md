@@ -1,18 +1,16 @@
 ---
 layout: single
-author_profile: true
-share: false
-read_time: false
-permalink: /competition/
 title: Competition
+share: false
 excerpt: A feedback loop of inspiration
 header:
   overlay_image: /assets/images/festiglacegroup.jpg
+  teaser: /assets/images/festiglacegroup.jpg
   caption: "Festiglace!"
 ---
 Competing with others doesn't come naturally to me. When I share a rope with someone, we are allies, competing against the challenges the mountains offer. Setting off on a red-point burn, I'm competing only with myself.
 
-But there is merit to pitting yourself against your peers. It provides a different, much more external motivation. I'm grateful to Sarah Heuniken for pushing me to try it. This year, I found two very different versions of this experience: the free-for-all choss wrangling at Festiglace in Quebec, and the regimented spectacle at the World Cup in Edmonton.
+But there is merit to pitting yourself against your peers. It provides a different, much more external motivation. I'm grateful to Sarah Hueniken for pushing me to try it. This year, I found two very different versions of this experience: the free-for-all choss wrangling at Festiglace in Quebec, and the regimented spectacle at the World Cup in Edmonton.
 
 ### <a href="https://www.festiglace.org/en/home/" target="_blank">Festiglace</a>
 The enduro competition at Festiglace is the closest thing to a "real" mixed climbing competition I can imagine. You get two 90-minute blocks to climb as much as you can. Points are awarded for completed routes based on difficulty. For a choss connoisseur, this is heaven. The holds are natural, the rock is loose, and the rock-to-ice transitions are plentiful. Picks stay put on tenuous flakes almost more through willpower than technique. Complacency and lousy luck are equally likely to send you flying.
@@ -33,4 +31,4 @@ Luckily, we have an incredible community growing in Canada. In particular, I wan
  As much as competition is about trying to be the best, there is still  a strong sense of comradery. That's what keeps people coming back, whether they're on the podium or cheering in the crowd.  
 
 > Competition is evolution.<br/>
-> <cite>Sarah</cite>
+> <cite>Sarah Hueniken</cite>
