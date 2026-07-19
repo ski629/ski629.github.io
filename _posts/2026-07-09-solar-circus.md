@@ -6,7 +6,7 @@ excerpt: “Mountains are not Stadiums where I satisfy my ambition to achieve, t
 header:
     overlay_image: /assets/images/2026-07-09-solar-circus/banner.jpg
     teaser: /assets/images/2026-07-09-solar-circus/banner.jpg
-    caption: "Sometimes bolting is more awkward and strenuous than climbing!"
+    caption: "Location, location, location. Gavin enjoys some moderate scrambling with a best-in-class backdrop."
 toc: true
 toc_label: "Navigation"
 toc_icon: "wrench"
