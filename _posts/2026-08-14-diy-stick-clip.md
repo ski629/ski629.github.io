@@ -2,6 +2,7 @@
 layout: single
 title:  "DIY Stick clips for your sport project"
 share: false
+hidden: true
 excerpt: A cheap but effective alternative for a niche product category
 header:
     overlay_image: /assets/images/2026-07-09-solar-circus/banner.jpg
