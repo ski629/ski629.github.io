@@ -56,3 +56,15 @@
 
 </script>
 <link rel="shortcut icon" type="image/png" href="/assets/favicon/favicon.ico">
+<style>
+    @media print {
+        .page__body, .page__content {
+            display: flex;
+            flex-direction: column;
+        }
+
+        .print-first {
+            order: -1;
+        }
+    }
+</style>
