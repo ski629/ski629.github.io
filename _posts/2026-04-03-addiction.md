@@ -21,7 +21,7 @@ I think a lot about the stories we tell ourselves, about why we do things. I’v
 
 I saw a cool overhanging cave with ice in it. I want to climb a cool overhanging cave with ice in it. I will drag partners along, and put in a bolt line, leading to a cool overhanging cave with ice in it.
 
-[Jump to route description](#description)
+[Jump to route description](#route-description)
 
 {% include figure popup=true  image_path="/assets/images/2026-04-03-addiction/overview s.jpeg" caption="So much ice, so little traffic." %}
 
@@ -135,7 +135,8 @@ Below is the relevant excerpt from Rock and Ice. It's hard to imagine climbing t
 
 {% include figure popup=true  image_path="/assets/images/2026-04-03-addiction/route line.jpeg" caption="Approximately climbing line for Addiction." %}
 
-## <span id="description">Addiction</span>  
+{% capture route_description %}
+**Addiction**  
 **Stanley Headwall**  
 **M7+ WI5 150m**  
 **FA/Prep: Greg Barrett, Raphael Slawinski, Matt Edgerton, Gavin McNamara**  
@@ -195,6 +196,11 @@ V-threads and bolted anchors.
 
 **Gear**  
 60m single rope and tag line. You’re going to want to haul a pack on P3. At least twelve draws including many alpines. Screws to comfort.
+
+{% endcapture %}
+
+{% include route-description.md route_name="Addiction" route_description=route_description %}
+
 
 [Stairs and Flowers (Youtube)](https://youtu.be/_Q0tZ5fLVrU)
 

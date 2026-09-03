@@ -12,7 +12,7 @@ I’m hooked on alpine exploration. When Raph Slawinski asked me to join him to 
 
 No matter. **I’m down.** Let’s see what we find.
 
-[Jump to route description](#description)
+[Jump to route description](#route-description)
 
 Getting into the Ghost is an adventure in and of itself. I picked Raph up at 6 am from his Waiprus Village abode, and we bounced north down the riverbed to marker 39, the end of the line for driving in the Ghost in the summer. A few shallow river crossings lay between us and the start of our ridge walk. In the morning, they were **bracing**. We popped our shoes back on and started up the slope.
 
@@ -50,7 +50,8 @@ Having solved this puzzle, we knew we were only a pitch away from the rim. More 
 
 We roasted in the sun on the descent, and when we reached our river crossing again, the cold water was blissful. In the end, I was 15 hours door-to-door to climb three pitches. Worth it? To repeat a route, perhaps not. But as an exploratory adventure with the best of company? **Absolutely.**
 
-<span id="description">**Northeast Corner**</span>  
+{% capture route_description %}
+**Northeast Corner**  
 **Devils Head**  
 **5.10-, 195m**  
 **Raphael Slawinski, Greg Barrett**  
@@ -82,3 +83,7 @@ Descend the scrambling route. It is a bit involved, and there are a few short op
 *Heavy Rack* - A full set of nuts, LAs, angles, a #4, and a #5 were carried and placed by the FA party. But, they’re heavy, and not strictly necessary.
 
 {% include figure popup=true image_path="/assets/images/2025-08-31-devils-head/topo.jpeg" caption="Approximate belay locations." %}
+
+{% endcapture %}
+
+{% include route-description.md route_name="Northeast Corner" route_description=route_description %}

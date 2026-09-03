@@ -10,7 +10,7 @@ header:
 ---
 The striking north-west headwall of Castle Mountain jumps out in the setting sun while driving south from adventures beyond Lake Louise. This face called out to Gavin, as faces sometimes do. He pitched the idea of exploring it, and I was sold immediately. Having no idea what we were up against, we packed cams, nuts, plenty of pins and cord. Our intention was a bolt-free alpine ascent, but we were open to it turning into a ground-up sport climbing adventure. Twenty bolts, two batteries, and a drill got added to the pile. No room for bivvy gear, we’ll just descend at a sensible time if things get out of hand.
 
-[Jump to route description](#description)
+[Jump to route description](#route-description)
 
 {% include figure popup=true image_path="/assets/images/2025-07-12-choss-gobbler/fromapproach.jpeg" caption="On approach, the cliff is a world of possibilities. None of them seem easy." %}
 
@@ -76,7 +76,8 @@ My confession is that I don’t know why I like to gobble choss. I can’t in go
 
 {% include figure popup=true image_path="/assets/images/2025-07-12-choss-gobbler/topo.jpeg" caption="A very, very rough topo." %}
 
-<span id="description">**Confessions of a Choss Gobbler**</span>  
+{% capture route_description %}
+**Confessions of a Choss Gobbler**  
 **Castle Mountain**  
 **5.11- A0 440m TD**  
 **Gavin McNamara, Greg Barrett**  
@@ -127,3 +128,7 @@ Scramble down to the southeast to reach the extreme southern tip of Protection V
 
 **Rack**  
 Doubles from black totem (.2)  to  BD #2, single 3&4. A full set of nuts. A selection of pins is not mandatory but is useful. 60m half ropes. 
+
+{% endcapture %}
+
+{% include route-description.md route_name="Confessions of a Choss Gobbler" route_description=route_description %}

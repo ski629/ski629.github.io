@@ -12,7 +12,7 @@ header:
 
 Eventually, you listen. True to form, it took me far longer than it should have to commit to climbing the east ridge of the northeast peak of Mount Stutfield with him. But finally, it was time, and nothing could stand in our way.
 
-[Jump to route description](#description)
+[Jump to route description](#route-description)
 
 {% include figure popup=true image_path="/assets/images/2025-09-03-no-fiesta-no-siesta/ridgelinefromabove.jpeg" caption="A surreal landscape." %}
 
@@ -163,8 +163,8 @@ I drew our bear spray, and we took turns keeping watch while heading up the slop
 
 I’m grateful for our journey. We both agree that there are a limited number of times you can ‘get away’ with doing this sort of adventure climbing. It’s not for everyone, and I don’t want to do too much of it, but just the right amount adds some zest to life, both as a climber and as a human. If you’re the sort of climber who seeks out exposed, loose, chossy, poorly protected climbing, this route might be for you. If you have more sense in your head, then perhaps it makes a better story than it does a climbing line. 
 
-
-<span id="description">**No Fiesta, No Siesta**</span>  
+{% capture route_description %}
+**No Fiesta, No Siesta**  
 **Mount Stutfield, NE Peak**  
 **TD- 5.8 1200m**  
 **Nick Baggaley, Greg Barrett**  
@@ -188,3 +188,7 @@ Continue up to the base of the steep headwall above. One long pitch (5.8ish) on 
 We descended the north-northwest ridge on ice and snow (conditions required one V-thread rappel) to the Cromwell-Stutfield col. We descended this col with some downclimbing and four rappels in 2 sets of 2 on the lower two cliff bands. This section of the descent would be very challenging to onsight in the dark. The rock glacier below the col is easy travel back to the tarn bivy, where we reversed our tracks to the road.
 
 Overall, this is a very loose, committing-feeling alpine route in a fantastic remote setting. It’s really only for folks who are interested in a LOT of exposed, loose, chossy, poorly protected climbing and navigating through this type of terrain. Despite a lot of smoke, we won’t be back for better views.
+
+{% endcapture %}
+
+{% include route-description.md route_name="No Fiesta, No Siesta" route_description=route_description %}

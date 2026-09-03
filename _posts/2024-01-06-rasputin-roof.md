@@ -12,7 +12,7 @@ Superbok is one of the most classic ice climbs in the range. Not far away, a mas
 
 **Nope!** Raph Slawinski invited me to take a crack at exploring it, and I was keen. Another route, "Cragganmore", served as approach ice.
 
-[Jump to route description](#description)
+[Jump to route description](#route-description)
 
 {% include figure popup=true image_path="/assets/images/2024-01-06-rasputin-roof/approach.jpeg" caption="Approaching, on Cragganmore, with Rasputin above, and Superbok high and right." %}
 
@@ -42,8 +42,10 @@ I reached out deeper into the horizontal roof. Now it was time for figures. It o
 
 Our line complete, our eyes turned upwards, to another dagger, in another roof, higher above. But that’s a story for another day.
 
-
+<div class="print-first"  markdown="1">
 
 <span id="description">Topo provided on [Frozen Limestone's Updates Page](https://www.frozenlimestone.ca/updates) by Nick Baggaley. [Direct link](https://static1.squarespace.com/static/63310c4a6cca9e2dcd85d990/t/65d530c86f8177747907112c/1708470479396/Rasputin+Roof.pdf)</span>  
 
 {% include figure popup=true image_path="/assets/images/2024-01-06-rasputin-roof/topo.jpg" %}
+
+</div>

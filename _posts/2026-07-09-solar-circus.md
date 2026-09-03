@@ -12,7 +12,7 @@ toc_label: "Navigation"
 toc_icon: "wrench"
 toc_sticky: true
 ---
-### A Fuzzy Plan
+## A Fuzzy Plan
 Every time I’ve stepped onto the slopes below the final tiers of Polar Circus, I’ve been blown away. The majesty of those ribbons of ice pouring through an immaculate rock amphitheater is awe inspiring. Solar Circus was born out of a desire to experience that awe in a different season, from a different vantage point.
 
 {% include figure popup=true image_path="/assets/images/2026-07-09-solar-circus/topoupperroad.jpg" caption="A rough topo, don't read into it too closely. Look at the pitch breakdown, follow your alpine nose." %}
@@ -27,7 +27,7 @@ Twenty-two bolts. Twelve for lead protection, ten with rap rings for our descent
 
 {% include figure popup=true image_path="/assets/images/2026-07-09-solar-circus/p1.jpg" caption="A perfect morning on pitch one." %}
 
-### A Meandering Approach
+## A Meandering Approach
 
 We left town at five, got fast food, and found ourselves at the parking at seven. Hiking gave way to scrambling as we moved up rock steps, avoiding the loose avalanche gully to our left and the waterfalls to our right. We located the most plausible weakness through the rock band beside the first pitch of Polar Circus, and the rope came out.
 
@@ -53,7 +53,7 @@ In true Rockies form, we decided to try to avoid climbing up the choss band by t
 
 {% include figure popup=true image_path="/assets/images/2026-07-09-solar-circus/traversechoss.jpg" caption="I haven't been in the Rockies long enough for *this* to look good." %}
 
-### An Imposing Headwall
+## An Imposing Headwall
 
 There is freedom in choosing your own line, but also some anxiety about making the right choice. I tied back in and meandered up a moderate but somewhat runout pitch, keeping an eye more on where we were heading next than what looked good right in front of me. I built an anchor atop a pinnacle and brought Gavin up, looking across at the bold start he’d face on the next pitch when I handed over the reins.
 
@@ -95,7 +95,7 @@ I went into our final pitch optimistically, but it was a true test piece for me.
 
 {% include figure popup=true image_path="/assets/images/2026-07-09-solar-circus/topout.jpg" caption="From our high mark. I agonized about whether to finish the pitch here or forge on into choss-choss-choss. You can see Gavin's highly photogenic blue-on-blue in frame if you look close enough." %}
 
-### A Stunning Descent
+## A Stunning Descent
 
 In my head, we were going to scramble out the top on choss and hike down to the top of Polar Circus to begin our descent. Gavin never had any intention of going beyond this point, and suggested that we start our rappels. I’m damn glad he did. This is the first time I've fully appreciated and embodied this cheeky quote. 
 
@@ -117,7 +117,7 @@ Eventually we came to the top of the first pitch of Polar, and did a final rappe
 
 Finally, we arrived back at the car, eighteen hours after we’d left it. It was a long day, but it felt civilized compared to our twenty-six-hour saga on Confessions of a Choss Gobbler the year before.
 
-### Musings
+## Musings
 
 I’m proud of how we executed on this vision. It was ambitious and taxing, both physically and mentally. But everything went more or less ‘according to plan’. The climbing often felt bold and audacious, but never out of control. We prepared well and brought the right skills and tactics to bear. First ascents in the alpine always carry heightened risk, but it didn’t feel like we got away with something we shouldn’t have been doing.
 
@@ -129,12 +129,12 @@ Strangely, a part of me feels almost like something is missing because it went s
 
 All the same, this is another adventure which I’ll cherish for a lifetime. I’m going through the Apprentice Alpine Guide courses, training, and exams this summer. The process leaves me without as much time to do ‘personal’ climbing. So, I’m trying to really make those days count. For me, a day in the alpine is worth ten at the crag, and I’ll always be grateful for Gavin’s supportive, curious, and eternally positive vibes when we’re out there together, looking for trouble.
 
-### <span id="description">**Route Description**</span>  
-*Solar Circus*  
-*Cirrus Mountain, Icefields Parkway*  
-*5.11- R 415m TD*  
-*Gavin McNamara, Greg Barrett*  
-*July 6, 2026*  
+{% capture route_description %}
+**Solar Circus**  
+**Cirrus Mountain, Icefields Parkway**  
+**5.11- R 415m TD**  
+**Gavin McNamara, Greg Barrett**  
+**July 6, 2026**  
 
 This is the first route on the prominent buttress left of the classic ice climb Polar Circus. The position beside the surging waterfalls is spectacular. While close to the road, it carries a very alpine character. Many pitches contain excellent climbing on steep and at times high quality rock. However, despite eight protection bolts, many also contain extended runouts on difficult, insecure, and loose terrain. The climbing is stimulating for those who seek out these challenges, but it is a serious affair. Parties repeating the route are welcome to add lead protection bolts as they see fit.
 
@@ -224,3 +224,7 @@ Descend as for turning The Pencil on Polar, but after the small notch, continue 
 {% include figure popup=true image_path="/assets/images/2026-07-09-solar-circus/topoupperroad.jpg" caption="The same topo from the top of the article." %}
 
 {% include figure popup=true image_path="/assets/images/2026-07-09-solar-circus/topolower.jpeg" caption="This is actually pretty accurate for the approach pitches." %}
+
+{% endcapture %}
+
+{% include route-description.md  route_name="Solar Circus" route_description=route_description %}

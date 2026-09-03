@@ -12,7 +12,7 @@ header:
 
 *The Real Small Drip (RSD)* is a pair of seeps coming from the top of the cliff a few hundred meters to the left. You’d be forgiven for not noticing them as you stare up at the main attraction nearby. If you did notice them, you’d be unsurprised that no one had attempted to climb the steep face below to reach them.
 
-[Jump to route description](#description)
+[Jump to route description](#route-description)
 
 {% include figure popup=true image_path="/assets/images/2025-12-04-the-real-small-drip/overview.jpg" caption="The Real Big Drip steals the show." %}
 
@@ -119,7 +119,8 @@ There are moments in our lives that will stick in our memories forever, and occa
 
 {% include figure popup=true image_path="/assets/images/2025-12-04-the-real-small-drip/upper_pitch_topo.jpg" caption="" %}
 
-### <span id="description">The Real Small Drip</span>  
+{% capture route_description %}
+**The Real Small Drip**  
 *Ghost River Wilderness*  
 *M9+ WI3+ 185m*  
 *Greg Barrett, Raphael Slawinski*  
@@ -163,6 +164,10 @@ The FA party climbed the right drip, which can be gained by traversing 5m rightw
 #### Gear
 A minimal rack would consist of .3-4, doubles .3-3, and a handful of short screws. A party wanting more protection could add small to medium nuts, some blades and peckers, and a larger selection of screws in fat ice conditions.  
 A bosun chair or butt bag is also advisable. The belay at the top of P3 is fairly unpleasant otherwise.
+
+{% endcapture %}
+
+{% include route-description.md route_name="The Real Small Drip" route_description=route_description %}
 
 {% include figure popup=true image_path="/assets/images/2025-12-04-the-real-small-drip/p1 follow.jpg" caption="Home away from home." %}
 {% include figure popup=true image_path="/assets/images/2025-12-04-the-real-small-drip/p1 follow lock off.jpg" caption="Nothing a little lockoff can't solve." %}
