@@ -1,13 +1,13 @@
 ---
 layout: single
-title:  "DIY Stick clips for your sport project"
+title:  "DIY lead stick clips for your sport project"
 share: false
 hidden: true
 excerpt: A cheap but effective alternative for a niche product category
 header:
-    overlay_image: /assets/images/2026-07-09-solar-circus/banner.jpg
-    teaser: /assets/images/2026-07-09-solar-circus/banner.jpg
-    caption: "Location, location, location. Gavin enjoys some moderate scrambling with a best-in-class backdrop."
+    overlay_image: /assets/images/2026-09-05-diy-stick-clip/header.jpeg
+    teaser: /assets/images/2026-09-05-diy-stick-clip/header.jpeg
+    caption: "Pretty long, for how compact and light they are."
 ---
 You're climbing your project or shopping for a new one, and you want to cheat past a sequence. You could send a bight down and tag your big stick clip up, but life is easier when you have an adequate one already on your harness.
 
