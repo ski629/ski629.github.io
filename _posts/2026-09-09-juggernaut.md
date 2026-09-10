@@ -7,11 +7,13 @@ header:
     overlay_image: /assets/images/2026-09-09-juggernaut/header.jpeg
     teaser: /assets/images/2026-09-09-juggernaut/header.jpeg
     caption: "Starting up a gorgeous dihedral on pitch four"
+toc: true
+toc_label: "Navigation"
+toc_icon: "wrench"
+toc_sticky: true
 ---
 
 This summer, I took the two week ACMG Apprentice Alpine Guide training course, trained a whole bunch on classic routes, and eventually passed the two week exam. It was an extremely valuable experience, but also quite stressful. And the whole time, front of mind, was how to manage risk to an institutional standard.
-
-[Jump to route description](#route-description)
 
 {% include figure popup=true  image_path="/assets/images/2026-09-09-juggernaut/topoline.jpeg" caption="The route, topo details at the bottom." %}
 
@@ -92,7 +94,7 @@ If any of this sounds enticing, get after it, and let me know how it goes!
 {% capture route_description %}
 **Juggernaut**  
 **Castle Mountain, Alberta**  
-**AD+ 5.9 550m**  
+**5.9 550m AD+**  
 **Nick Baggaley, Greg Barrett**  
 **September 10, 2026**  
 
