@@ -6,14 +6,12 @@ excerpt: Juggernaut, because there's jugs everywhere and you can't stop rolling
 header:
     overlay_image: /assets/images/2026-09-09-juggernaut/header.jpeg
     teaser: /assets/images/2026-09-09-juggernaut/header.jpeg
-    caption: "Stemming up a gorgeous dihedral on pitch four"
+    caption: "Starting up a gorgeous dihedral on pitch four"
 ---
 
 This summer, I took the two week ACMG Apprentice Alpine Guide training course, trained a whole bunch on classic routes, and eventually passed the two week exam. It was an extremely valuable experience, but also quite stressful. And the whole time, front of mind, was how to manage risk to an institutional standard.
 
 [Jump to route description](#route-description)
-
-{% include figure popup=true  image_path="/assets/images/2025-08-17-rimwall/fullroute.jpeg" caption="How could you _not_ go check it out" %}
 
 With the exam complete, I yearned to explore the unknown again, managing risk based on my own intuition and that of my partners. Fickle weather slowed me down slightly, and ruled out mult-day objectives. Slowly, a return to the west end of Castle Mountain, the scene of ‘Confessions of a Choss Gobbler’, floated to the top of my to-do list.
 
@@ -26,23 +24,53 @@ We left town at 4 a.m. with a well-defined but flexible plan. We’d start on th
 
 5 o’clock found us suiting up at the parking, and by 7:30 we were at the base of the wall. I’d soaked my feet and pants in dew and wet moss on the approach. I stuffed soaked socks in my pockets to dry, crammed my feet into the ‘performance fit’ rock shoes I’d selected, and rocked back and forth in discomfort at the belay.
 
+{% include figure popup=true  image_path="/assets/images/2026-09-09-juggernaut/approach.jpeg" caption="The step of scrambling before the first pitch" %}
+
+
 Nick led out in a fresh pair of dry pants and comfortable rock shoes. I cursed my shortsightedness, but was grateful for Nick’s composure and better decision making as he fired us up back-to-back pitches of beautiful, incut, well protected climbing. I did my best to keep up, acting as a temperamental pack mule while Nick moved us forward, equipping rappel anchors for our descent as he went.
+
+{% include figure popup=true  image_path="/assets/images/2026-09-09-juggernaut/p1.jpeg" caption="Moderate terrain on the first pitch." %}
+{% include figure popup=true  image_path="/assets/images/2026-09-09-juggernaut/p3.jpeg" caption="Immaculate rock on the third pitch. With enough zig-zagging, anything is possible." %}
+{% include figure popup=true  image_path="/assets/images/2026-09-09-juggernaut/p4.jpeg" caption="Pitch four, anyone else see two more steep, rad variations?" %}
+{% include figure popup=true  image_path="/assets/images/2026-09-09-juggernaut/p5.jpeg" caption="Pitch five might not be quartzite, but it sure climbs like quartzite" %}
 
 ## Eventually I rally
 We topped out the lower tier in four-and-a-half pitches of climbing, at a delightful clip. My socks had dried somewhat, and I stuffed them onto my feet and back into my approach shoes. We stomped up scree to the middle tier, eventually selecting a slightly dubious looking chimney as our point of attack.
+
+{% include figure popup=true  image_path="/assets/images/2026-09-09-juggernaut/p6.jpeg" caption="I finally get my ass in gear on pitch six and enjoy the hell out of some chimney stemming." %}
 
 The day was getting warmer, I was drier, and my dose of stimulants for the day kicked in. The chimney started out scrappy, but it gave way to beautiful face climbing, and a corner system with all the jugs you could possibly hope for. I felt myself settling into a rhythm again. Another pitch started scrappily, and again gave way to intriguing climbing. This time it was on rock fins on an arete. A final pitch led up a broken-but-improbably-solid corner and a slightly-overhung but-jug-laden top out.
 
 We scrambled on and arrived at the top of the second tier, on a ridge in the sky, at noon. Things had gone so smoothly. We took a well deserved break to eat lunch and wander about, scouting possible lines. The coolest feature was a pronounced prow jutting out above us, the bulwark of Castle’s western limits. It seemed improbable that it would protect adequately on cams and nuts. After a good deal of hemming and hawing, I lead up to find out.
 
+{% include figure popup=true  image_path="/assets/images/2026-09-09-juggernaut/upper.jpeg" caption="A world of possibility on the final tier. The pitch nine arete with its small stepped roofs is dead center, although it's looks less pronounced with this angle/lighting." %}
+
+
 The nature of the rock was different from what we’d encountered below. Where previously we’d found plentiful protection, now, corners seemed to be flaring or sealed shut. I continued up, and in a strange way the wildness of the position made up for the sporadic protection. Towards the top, I clung atop an undercut feature on the tip of the prow, with a 270 degree arc of exposure all around me. I savored the moment, and stretched the rope out into the more moderate terrain above.
 
-The top was in sight, and we decided to start swinging leads. Nick charged up a wide break in a steep wall, and continued weaving upward around blunt aretes. I took the reins back for one final pitch. I became a living embodiment of the sunk-cost fallacy, as I pushed higher and higher up a corner that clearly did not want to be friends with me. I cursed myself for attempting it in approach shoes as I clung to two jugs and swung both feet around an undercut prow. I preferred to trust my grip strength instead of trusting my shoes' edging ability.
+
+{% include figure popup=true  image_path="/assets/images/2026-09-09-juggernaut/justice.jpeg" caption="We don't have photos that do pitch nine justice, but you end up atop those two roofs in the center of the frame, and it's rad." %}
+{% include figure popup=true  image_path="/assets/images/2026-09-09-juggernaut/bypass.jpeg" caption="Easier terrain that bypasses the run-out pitch nine." %}
+
+The top was in sight, and we decided to start swinging leads. Nick charged up a wide break in a steep wall, and continued weaving upward around blunt aretes. 
+
+{% include figure popup=true  image_path="/assets/images/2026-09-09-juggernaut/p11.jpeg" caption="This feature on pitch eleven has great movement, even though Nick is a big X at this exact moment." %}
+
+I took the reins back for one final pitch. I became a living embodiment of the sunk-cost fallacy, as I pushed higher and higher up a corner that clearly did not want to be friends with me. I cursed myself for attempting it in approach shoes as I clung to two jugs and swung both feet around an undercut prow. I preferred to trust my grip strength instead of trusting my shoes' edging ability.
+
+{% include figure popup=true  image_path="/assets/images/2026-09-09-juggernaut/dont.jpeg" caption="Don't go this way on pitch twelve. The suggested variation is the rightmost corner, mostly out of frame in this shot." %}
 
 Easier climbing followed, and eventually I was belaying Nick up to the gravel plateau that is the ‘summit’ of Castle’s western extent. It wasn’t even 4pm yet. We’d topped out a full 10 hours earlier than Gavin and I had the season before. All the same, we’d been pushing hard, and we were a bit exhausted, both physically and mentally.
 
+{% include figure popup=true  image_path="/assets/images/2026-09-09-juggernaut/summit.jpeg" caption="Someday we'll get better at selfies. Just kidding, dorks gonna dork. Both making the same gesture, both holding a second glove in a gloved hand so we can operate our phones, atop the plateau." %}
+
 ## It’s not over ‘till it’s over
+
+{% include figure popup=true  image_path="/assets/images/2026-09-09-juggernaut/sucker.jpeg" caption="I'm a sucker for a cool feature. Was it predictable that the chimney would be chossy? Yes. Should we have anticipated getting our ropes stuck? Also yes. Do I regret this decision? Also... maybe. Did I learn a lesson? Absolutely not." %}
+
 By the time our ropes got stuck two rappels in a row, our praise for the climb had devolved into a debate about the merits of different tag lines and rappel configurations. The sort of debate that to an outside observer, looks more like an old married couple bickering than it does like two alpine climbers trying to decide how best to get off a mountain. Nick bit the bullet and ascended our stuck rope, freeing it and setting us back on a smooth track down.
+
+{% include figure popup=true  image_path="/assets/images/2026-09-09-juggernaut/chimney.jpeg" caption="I mean I know we should have rappeled the face, but come on, it's cool." %}
 
 We flowed through the rest of the descent, our biggest remaining challenge being selecting a route name. Eventually, a sound argument swayed us both:
 
@@ -57,9 +85,7 @@ My second delight is that it’s just an objectively great route. It’s sustain
 
 If any of this sounds enticing, get after it, and let me know how it goes!
 
-
-
-
+{% include figure popup=true  image_path="/assets/images/2026-09-09-juggernaut/topoblank.jpeg" caption="There's no place like home." %}
 
 {% capture route_description %}
 **Juggernaut**  
@@ -165,8 +191,9 @@ Rappel straight down to the ledge you traversed below the first pitch. Traverse 
 - Mid-sized nuts.
 - Pitons could be used but are not required (none placed by FA). 
 
-{% include figure popup=true  image_path="/assets/images/2025-08-17-rimwall/topo.jpeg" caption="Approximate climbing line, with approximate locations for the early belays" %}
+{% include figure popup=true  image_path="/assets/images/2026-09-09-juggernaut/topoline.jpeg" caption="Someday I'll get a better photo. Zoom in to see the blue climbing line, orange hexagon at the top of each pitch, and dark blue arrows at the rappels. Note that P19/P10 share a hexagon, and that there is an extra hexagon at the start of P1." %}
 
 {% endcapture %}
 
-{% include route-description.md route_name="Iron Tears" route_description=route_description %}
+{% include route-description.md route_name="Juggernaut" route_description=route_description %}
+
