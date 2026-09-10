@@ -13,7 +13,9 @@ This summer, I took the two week ACMG Apprentice Alpine Guide training course, t
 
 [Jump to route description](#route-description)
 
-With the exam complete, I yearned to explore the unknown again, managing risk based on my own intuition and that of my partners. Fickle weather slowed me down slightly, and ruled out mult-day objectives. Slowly, a return to the west end of Castle Mountain, the scene of ‘Confessions of a Choss Gobbler’, floated to the top of my to-do list.
+{% include figure popup=true  image_path="/assets/images/2026-09-09-juggernaut/topoline.jpeg" caption="The route, topo details at the bottom." %}
+
+With the exam complete, I yearned to explore the unknown again, managing risk based on my own intuition and that of my partners. Fickle weather slowed me down slightly, and ruled out multi-day objectives. Slowly, a return to the west end of Castle Mountain, the scene of ‘Confessions of a Choss Gobbler’, floated to the top of my to-do list.
 
 Nick Baggaley was down. He’s game for suffering, and we both assumed we were signing ourselves up for a bit of a horror show. I floated the route name ‘Fool Me Twice’, referring to being tricked for a second time by lines on that wall that look good from afar, but are far from good.
 
