@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Juggernaut - 5.9 550m AD+"
+title:  "Juggernaut - 5.9 550m D-"
 share: false
 excerpt: Juggernaut, because there's jugs everywhere and you can't stop rolling
 header:
@@ -94,7 +94,7 @@ If any of this sounds enticing, get after it, and let me know how it goes!
 {% capture route_description %}
 **Juggernaut**  
 **Castle Mountain, Alberta**  
-**5.9 550m AD+**  
+**5.9 550m D-**  
 **Nick Baggaley, Greg Barrett**  
 **September 10, 2026**  
 
