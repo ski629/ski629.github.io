@@ -10,7 +10,7 @@ header:
 toc: true
 toc_label: "Navigation"
 toc_icon: "wrench"
-toc_sticky: true1
+toc_sticky: true
 ---
 
 This summer, I took the two week ACMG Apprentice Alpine Guide training course, trained a whole bunch on classic routes, and eventually passed the two week exam. It was an extremely valuable experience, but also quite stressful. And the whole time, front of mind, was how to manage risk to an institutional standard.
@@ -111,6 +111,9 @@ Park in a pullout across from the Castle Mountain Campground. Approach as for th
 
 Rack up here. Climb a short step of low fifth class climbing to gain a ramp system ascending rightward (take note of flakes that can be used to rappel this step on descent). Follow this ramp rightward until you are below easy climbing terrain. This terrain leads you back up and left to the main corner.
 
+[GPS Track](https://outmap.pro/route/juggernaut-m9pzn9yKwE3mrGgzhoKNRr)  
+Start of P1: 51.3368,115.9832
+
 #### Ascent - First Tier  
 **P1, Low Fifth, 60m**  
 Climb the path of least resistance to gain another large scree ledge. Continue up the scree ledge and belay on gear at the base of another rock step after 60m. (Take note of a two bolt rappel anchor 15 m to your left).
@@ -196,6 +199,8 @@ Rappel straight down to the ledge you traversed below the first pitch. Traverse 
 - Pitons could be used but are not required (none placed by FA). 
 
 {% include figure popup=true  image_path="/assets/images/2026-09-09-juggernaut/topoline.jpeg" caption="Someday I'll get a better photo. Zoom in to see the blue climbing line, orange hexagon at the top of each pitch, and dark blue arrows at the rappels. Note that P19/P10 share a hexagon, and that there is an extra hexagon at the start of P1." %}
+
+{% include figure popup=true  image_path="/assets/images/2026-09-09-juggernaut/gps.jpeg" caption="Outmap actually does a pretty reasonable job showing travel through steep terrain like this." %}
 
 {% endcapture %}
 
