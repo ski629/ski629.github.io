@@ -198,6 +198,8 @@ Rappel straight down to the ledge you traversed below the first pitch. Traverse 
 - Mid-sized nuts.
 - Pitons could be used but are not required (none placed by FA). 
 
+#### Photo topo
+
 {% include figure popup=true  image_path="/assets/images/2026-09-09-juggernaut/topoline.jpeg" caption="Someday I'll get a better photo. Zoom in to see the blue climbing line, orange hexagon at the top of each pitch, and dark blue arrows at the rappels. Note that P19/P10 share a hexagon, and that there is an extra hexagon at the start of P1." %}
 
 {% include figure popup=true  image_path="/assets/images/2026-09-09-juggernaut/gps.jpeg" caption="Outmap actually does a pretty reasonable job showing travel through steep terrain like this." %}
