@@ -29,7 +29,7 @@ I've gotten the bug for 'Crag-in-a-day' linkups. I've climbed all 28 routes at T
 I've done free ascents of many of the classics in the Rockies, including:
 - Rasputin Roof, Field, BC, M9- WI5, FA with Raph Slawinski
 - Cryophobia, Waiparus, AB, M8 WI5+
-- The Real Big Drip, Ghost River, AB, M7+++ WI6
+- The Real Big Drip, Ghost River, AB, M7++ WI6
 - Nightmare on Wolf Street, Stanley Headwall, BC M7+ WI6
 - Tupperware Tea Party, Mt Wilson, AB, M8++ WI5
 - Les Miserables & Whoa Whoa Capitaine, Mt Wilson, WI6+

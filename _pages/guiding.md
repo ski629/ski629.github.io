@@ -10,7 +10,7 @@ header:
 feature_row:
   - image_path: /assets/logos/acmg-logo-300x300.png
     title: "ACMG"
-    excerpt: "Association of Canadian Mountain Guides<br><br>Apprentice Rock Guide"
+    excerpt: "Association of Canadian Mountain Guides<br><br>Apprentice Alpine Guide"
     url: "https://www.acmg.ca/"
     btn_label: "Visit ACMG"
   - image_path: /assets/logos/caa-logo-2.jpeg
@@ -25,7 +25,7 @@ feature_row:
     btn_label: "Visit RMAM"
 
 ---
-I am an ACMG Apprentice Rock Guide, working with Yamnuska Mountain Adventures. I'm pursuing my ACMG Alpine Guide certification.  
+I am an ACMG Apprentice Alpine Guide, working with Yamnuska Mountain Adventures.  
 ![Yamnuska Mountain Adventures](/assets/logos/yamnuska.png)
 <a href="https://yamnuska.com/" class="btn btn--large">Visit Yamnuska</a>
 
