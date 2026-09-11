@@ -10,18 +10,18 @@ header:
 toc: true
 toc_label: "Navigation"
 toc_icon: "wrench"
-toc_sticky: true
+toc_sticky: true1
 ---
 
 This summer, I took the two week ACMG Apprentice Alpine Guide training course, trained a whole bunch on classic routes, and eventually passed the two week exam. It was an extremely valuable experience, but also quite stressful. And the whole time, front of mind, was how to manage risk to an institutional standard.
 
 {% include figure popup=true  image_path="/assets/images/2026-09-09-juggernaut/topoline.jpeg" caption="The route, topo details at the bottom." %}
 
-With the exam complete, I yearned to explore the unknown again, managing risk based on my own intuition and that of my partners. Fickle weather slowed me down slightly, and ruled out multi-day objectives. Slowly, a return to the west end of Castle Mountain, the scene of ‘Confessions of a Choss Gobbler’, floated to the top of my to-do list.
+With the exam complete, I yearned to explore the unknown again, managing risk based on my own intuition and that of my partners. Fickle weather slowed me down slightly, and ruled out multi-day objectives. Slowly, a return to the west end of Castle Mountain, the scene of [Confessions of a Choss Gobbler](/choss-gobbler), floated to the top of my to-do list.
 
 Nick Baggaley was down. He’s game for suffering, and we both assumed we were signing ourselves up for a bit of a horror show. I floated the route name ‘Fool Me Twice’, referring to being tricked for a second time by lines on that wall that look good from afar, but are far from good.
 
-The mountain had other plans for us. It had a gift, an offering, almost an apology for the choss Gavin and I had endured (and perhaps at times savored) the season prior. Our whole day, Nick and I climbed beautiful pitch after beautiful pitch, always thinking ‘That was great, but surely it’s going to go to hell soon’. But it never did.
+The mountain had other plans for us. It had a gift, an offering, almost an apology for the choss Gavin McNamara and I had endured (and perhaps at times savored) the season prior. Our whole day, Nick and I climbed beautiful pitch after beautiful pitch, always thinking ‘That was great, but surely it’s going to go to hell soon’. But it never did.
 
 ## Another journey begins
 We left town at 4 a.m. with a well-defined but flexible plan. We’d start on this corner system, ascend that face, and finish up a chimney near the prow. We’d rappel a different wall, scramble down a gulley, and finish rapping back to our start. We’d carry a drill and bolts, but ideally we’d only place them as rappel anchors.
@@ -38,7 +38,7 @@ Nick led out in a fresh pair of dry pants and comfortable rock shoes. I cursed m
 {% include figure popup=true  image_path="/assets/images/2026-09-09-juggernaut/p4.jpeg" caption="Pitch four, anyone else see two more steep, rad variations?" %}
 {% include figure popup=true  image_path="/assets/images/2026-09-09-juggernaut/p5.jpeg" caption="Pitch five might not be quartzite, but it sure climbs like quartzite" %}
 
-## Eventually I rally
+## Eventually, I rally
 We topped out the lower tier in four-and-a-half pitches of climbing, at a delightful clip. My socks had dried somewhat, and I stuffed them onto my feet and back into my approach shoes. We stomped up scree to the middle tier, eventually selecting a slightly dubious looking chimney as our point of attack.
 
 {% include figure popup=true  image_path="/assets/images/2026-09-09-juggernaut/p6.jpeg" caption="I finally get my ass in gear on pitch six and enjoy the hell out of some chimney stemming." %}
