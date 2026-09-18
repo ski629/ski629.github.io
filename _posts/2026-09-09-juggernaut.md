@@ -107,12 +107,13 @@ The route is composed of three major tiers. Descent is relatively straightforwar
 Overall protection is good for an alpine route at the grade, with the exception of two aesthetic but runout pitches climbed by the FA party. Fortunately, both of these pitches can be bypassed on more moderate and better protected ground. In general, there are many options for variations almost the whole way up the buttress. A strong team could likely add a number of high quality 5.9/5.10 variations.
 
 #### Approach  
-Park in a pullout across from the Castle Mountain Campground. Approach as for the Protection Valley winter climbs. Follow the sporadic flagging until you cross the creek just below the west end of Castle Mountain. From this point you can see the route, as well as a small cliffband below the lower wall. Bypass this cliffband on its left end. Traverse back right until you’re at a high point above a very large boulder (6km, 600m gain, 2-2.5 hours)
+Park in a pullout across from the Protection Mountain Campground. Approach as for the Protection Valley winter climbs. Follow the sporadic flagging until you cross the creek just below the west end of Castle Mountain. From this point you can see the route, as well as a small cliffband below the lower wall. Bypass this cliffband on its left end. Traverse back right until you’re at a high point above a very large boulder (6km, 600m gain, 2-2.5 hours)
 
 Rack up here. Climb a short step of low fifth class climbing to gain a ramp system ascending rightward (take note of flakes that can be used to rappel this step on descent). Follow this ramp rightward until you are below easy climbing terrain. This terrain leads you back up and left to the main corner.
 
-[GPS Track](https://outmap.pro/route/juggernaut-m9pzn9yKwE3mrGgzhoKNRr)  
-Start of P1: 51.3368,115.9832
+[GPS Track on Outmap](https://outmap.pro/route/juggernaut-m9pzn9yKwE3mrGgzhoKNRr)  
+[juggernaut.gpx](/assets/images/2026-09-09-juggernaut/juggernaut.gpx)  
+Start of P1: 51.3368,-115.9832
 
 #### Ascent - First Tier  
 **P1, Low Fifth, 60m**  
