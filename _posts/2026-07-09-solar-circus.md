@@ -136,7 +136,7 @@ All the same, this is another adventure which I’ll cherish for a lifetime. I�
 **Gavin McNamara, Greg Barrett**  
 **July 6, 2026**  
 
-This is the first route on the prominent buttress left of the classic ice climb Polar Circus. The position beside the surging waterfalls is spectacular. While close to the road, it carries a very alpine character. Many pitches contain excellent climbing on steep and at times high quality rock. However, despite eight protection bolts, many also contain extended runouts on difficult, insecure, and loose terrain. The climbing is stimulating for those who seek out these challenges, but it is a serious affair. Parties repeating the route are welcome to add lead protection bolts as they see fit.
+This is the first route on the prominent buttress left of the classic ice climb Polar Circus. The position beside the surging waterfalls is spectacular. While close to the road, it carries a very alpine character. Many pitches contain excellent climbing on steep and at times high quality rock. However, despite eight protection bolts, many also contain extended runouts on difficult, insecure, and loose terrain. The climbing is stimulating for those who seek out these challenges, but it is a serious affair.
 
 
 <a target="_blank" href="https://www.gaiagps.com/map/?loc=14.0/-116.9859/52.1396&pubLink=i7hTMPIEQMNkefDYUeTsPaZ9&waypointId=de299da1-7dc1-466a-9216-39a975c5622f">Start of climbing</a> (52.13964, -116.98590)  
@@ -148,6 +148,9 @@ Park as for Polar Circus. Head up a trail on the right side of the creek until i
 Continue following the path of least resistance up rock slabs until you arrive at the traverse ledge normally used to bypass the approach ice in winter. Pitch one starts from a high point on a dirt cone beneath an obvious weakness.
 
 #### Pitch Breakdown
+
+{: .notice--primary}
+Pitches 1-3 below are described as the FA climbed them. Tim Taylor's 'Solar Delight' now climbs terrain ever so slightly right of these pitches. You may wish to follow his version instead, with bolted anchors and some bolted protection. For all three pitches, when in doubt, look up and right for bolts. I'll link his route description when it's posted.
 
 **P1, 5.4, 35m**  
 Follow the path of least resistance through two small dish features. Continue with minimal protection to gain a large dirt ledge and a gear belay.
@@ -192,7 +195,7 @@ From the pedestal climb poor rock, heading towards the right side of a yellow pi
 Continue up and right with some difficulty past numerous bulges. Eventually gain a small stance with a two bolt anchor, just before the rock turns from yellow to black. The climbing is fun and burly but the rock is loose and at times marginally protected.
 
 #### Descent
-The FA party descended from this point. The rock above is lower angle but gross, and the rap line from here is beautiful. If continuing above, you’ll need to equip a different descent into the bowl, or traverse a few kilometers east and descend the Cirrus Mountain scrambling route.
+The FA party descended from this point. The rock above is lower angle but gross, and the rap line from here is beautiful. If continuing above, you can descend back into the bowl as for [Breccia (Betcha) Won’t Do That Again](/breccia-festival).
 
 **Rappel 1, 70m**  
 Down and moderately right to reach another ring bolt station on a ledge. Absolutely stunning views of the upper Polar tiers.
@@ -206,9 +209,12 @@ Rappel down to the left of a loose a gulley, finishing on a ledge in lower angle
 **Rappel 4, 70m**  
 Rappel to the ground, with some waterfall spray. Again, absolute magic being beside the falls.
 
-From this point, there are multiple options for the rest of the descent. Contemplate your plan on the way up. Described below are the choices the FA party made. Alternatives include equipping new anchors closer to the waterfalls or reversing a version of the terrain you ascended.
+Hike down towards the notch above the pencil.
 
-Descend as for turning The Pencil on Polar, but after the small notch, continue skiers left into the trees instead of heading back to The Pencil. Scramble down and rappel off of trees as you head toward the top of Polar P1. A photo from the road will help considerably with navigation. From the top of Polar P1, exposed scrambling down skiers left leads to a single ring bolt. Rappel off this, then traverse and descend as for the Polar walk off.
+**Rappel 4, 20m**
+There is a bolted station on the wall high and left in the notch. Rappel down to the ledge atop the pencil. Keep your ropes out of the water.
+
+From this point, reverse the way you came, scrambling downwards and rappelling three times.
 
 #### Gear
 - 70m ropes. Either half ropes or single/tag, both have advantages in this terrain. The FA party mostly used single/tag configuration and hauled packs frequently, but they did have a drill to contend with.
