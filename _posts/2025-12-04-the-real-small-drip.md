@@ -7,6 +7,10 @@ header:
     overlay_image: /assets/images/2025-12-04-the-real-small-drip/header.jpg
     teaser: /assets/images/2025-12-04-the-real-small-drip/header.jpg
     caption: "Finding out the ice is laminated is always a happy moment"
+toc: true
+toc_label: "Navigation"
+toc_icon: "wrench"
+toc_sticky: true
 ---
 *The Real Big Drip (RBD)* is one of the most iconic climbs in the Canadian Rockies. With its high flow and susceptibility to chinooks it can be a bit temperamental. But when it’s in, it’s one of the best lines around.
 
